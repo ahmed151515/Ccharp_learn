@@ -1,4 +1,4 @@
-﻿using archive.Serialization;
+﻿using archive.Foreach_Yield;
 
 namespace app
 {
@@ -42,7 +42,11 @@ namespace app
 			//_1_XMLSerialization.Main();
 			//_2_BinarySerialization.Main();
 			//_3_JsonSerializer.Main();
-			_4_HttpClientJson.Main().Wait();
+			//_4_HttpClientJson.Main().Wait();
+
+
+			//_1_Foreach.Main();
+			_2_Yield.Main();
 
 
 
