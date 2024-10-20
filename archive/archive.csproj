@@ -10,6 +10,7 @@
     <PackageId> Ahmed-Arafa-$(AssemblyName)</PackageId>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
 	<EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+	<OutputType>Library</OutputType>
   </PropertyGroup>
 
   <ItemGroup>

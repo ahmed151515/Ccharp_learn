@@ -1,4 +1,4 @@
-﻿using archive.Foreach_Yield;
+﻿using archive.Records;
 
 namespace app
 {
@@ -46,9 +46,21 @@ namespace app
 
 
 			//_1_Foreach.Main();
-			_2_Yield.Main();
+			//_2_Yield.Main();
 
+			//_1_ValueBasedEquality.Main();
+			//_2_ReferenceBasedEquality.Main();
 
+			//_3_HashCode.Main();
+			//_4_OverrideEquality.Main();
+			//_5_OverrideOperators.Main();
+			//_6_PropertyInitSetter.Main();
+			//_7_OverrideToString.Main();
+			//_8_RecordRescue.Main();
+			//_9_ImmutableRecordUsingInit.Main();
+			//_10_PositionalRecord.Main();
+			//_11_StructRecord.Main();
+			_12_WithExpression.Main();
 
 
 
@@ -64,32 +76,32 @@ namespace app
 
 		}
 
-		static void SetData()
-		{
-			string data;
-			while (true)
-			{
-				data = Console.ReadLine();
-				Values.AddLast(data);
-			}
-		}
-		static void GetData()
-		{
-			int size = Values.Count;
+		//static void SetData()
+		//{
+		//	string data;
+		//	while (true)
+		//	{
+		//		data = Console.ReadLine();
+		//		Values.AddLast(data);
+		//	}
+		//}
+		//static void GetData()
+		//{
+		//	int size = Values.Count;
 
-			while (true)
-			{
-				if (size < Values.Count)
-				{
-					Console.WriteLine(Values.Last.Value);
-					size++;
-				}
-				else
-				{
-					continue;
-				}
-			}
-		}
+		//	while (true)
+		//	{
+		//		if (size < Values.Count)
+		//		{
+		//			Console.WriteLine(Values.Last.Value);
+		//			size++;
+		//		}
+		//		else
+		//		{
+		//			continue;
+		//		}
+		//	}
+		//}
 
 
 	}
