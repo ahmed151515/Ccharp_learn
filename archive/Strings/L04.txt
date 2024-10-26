@@ -1,0 +1,7 @@
+a
+̈
+ä
+ä
+ä = ä (Culture-sensitive): True
+ä = ä (Ordinal): False
+ä = ä (Normalized Ordinal): True

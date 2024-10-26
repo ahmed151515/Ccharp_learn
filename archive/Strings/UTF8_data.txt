@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-not-available" lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>ويكيبيديا، الموسوعة الحرة</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )arwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[".\t,","٫\t٬"],"wgDigitTransformTable":[
+"0\t1\t2\t3\t4\t5\t6\t7\t8\t9","٠\t١\t٢\t٣\t٤\t٥\t٦\t٧\t٨\t٩"],"wgDefaultDateFormat":"dmy","wgMonthNames":["","يناير","فبراير","مارس","أبريل","مايو","يونيو","يوليو","أغسطس","سبتمبر","أكتوبر","نوفمبر","ديسمبر"],"wgRequestId":"f86787b3-c89c-46bf-a967-6e5137a3eb45","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"الصفحة_الرئيسة","wgTitle":"الصفحة الرئيسة","wgCurRevisionId":66860132,"wgRevisionId":66860132,"wgArticleId":9587814,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["مقالات تحوي نصا بالإنجليزية"],"wgPageViewLanguage":"ar","wgPageContentLanguage":"ar","wgPageContentModel":"wikitext","wgRelevantPageName":"الصفحة_الرئيسة","wgRelevantArticleId":9587814,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit"
+:["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":66860132,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ar","pageLanguageDir":"rtl","pageVariantFallbacks":"ar"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgRelatedArticlesCompat":[],"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5296","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics"
+:true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgSiteNoticeId":"2.73"};RLSTATE={"ext.gadget.Font-Amiri":"ready","ext.gadget.palestineTheme":"ready","ext.gadget.WMP-icons":"ready","ext.gadget.Font-Arial":"ready","ext.gadget.HideExLinkIcon":"ready","ext.gadget.Urgent-fixes":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.js",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.events-loader","ext.gadget.ArabicAds","ext.gadget.Defaulteditnotices","ext.gadget.searchlang","ext.gadget.NoRefCopy","ext.gadget.exlinks","ext.gadget.content-support-loader","ext.gadget.charinsert","ext.gadget.TemplateParamWizard","ext.gadget.decodesummary","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","wikibase.sidebar.tracking","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ar&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ar&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ar&amp;modules=ext.gadget.Font-Amiri%2CFont-Arial%2CHideExLinkIcon%2CUrgent-fixes%2CWMP-icons%2CpalestineTheme&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=ar&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.43.0-wmf.28">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Ibn_al-Nafis.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1432">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Ibn_al-Nafis.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="954">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="764">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="ويكيبيديا، الموسوعة الحرة">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ar.m.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="ويكيبيديا (ar)">
+<link rel="EditURI" type="application/rsd+xml" href="//ar.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ar">
+<link rel="alternate" type="application/atom+xml" title="تلقيمة أتوم ويكيبيديا" href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%A3%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki rtl sitedir-rtl mw-hide-empty-elt ns-0 ns-subject page-الصفحة_الرئيسة page-Main_Page rootpage-الصفحة_الرئيسة skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">انتقل إلى المحتوى</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="الموقع">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="القائمة الرئيسية"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">القائمة الرئيسية</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">القائمة الرئيسية</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">انقل للشريط الجانبي</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">أخف</button>
+</div>
+
+	
+<div id="p-encyclopedia" class="vector-menu mw-portlet mw-portlet-encyclopedia"  >
+	<div class="vector-menu-heading">
+		الموسوعة
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" title="زر الصفحة الرئيسية [z]" accesskey="z"><span>الصفحة الرئيسة</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9" title="مطالعة سريعة لأهم الأحداث الجارية"><span>الأحداث الجارية</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A3%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA" title="قائمة أحدث التغييرات في الويكي. [r]" accesskey="r"><span>أحدث التغييرات</span></a></li><li id="n-wrecentchanges" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A3%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%88%D9%84%D8%A9/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B5%D9%81%D8%AD%D8%A7%D8%AA_%D9%85%D9%87%D9%85%D8%A9"><span>أحدث التغييرات الأساسية</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		تصفح
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-subjects" class="mw-list-item"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B5%D9%81%D8%AD"><span>المواضيع</span></a></li><li id="n-index" class="mw-list-item"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%81%D9%87%D8%B1%D8%B3_%D8%B3%D8%B1%D9%8A%D8%B9"><span>أبجدي</span></a></li><li id="n-portals" class="mw-list-item"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AA%D8%B5%D9%81%D8%AD"><span>بوابات</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A" title="حمل صفحة عشوائية [x]" accesskey="x"><span>مقالة عشوائية</span></a></li><li id="n-Kiwix" class="mw-list-item"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%83%D9%8A%D9%88%D9%8A%D9%83%D8%B3"><span>تصفح من غير إنترنت</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-contributing" class="vector-menu mw-portlet mw-portlet-contributing"  >
+	<div class="vector-menu-heading">
+		مشاركة
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-contact" class="mw-list-item"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D8%AA%D8%B5%D9%84_%D8%A8%D9%86%D8%A7"><span>تواصل مع ويكيبيديا</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="حيث تجد المساعدة"><span>مساعدة</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86"><span>الميدان</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="ويكيبيديا" src="/static/images/mobile/copyright/wikipedia-wordmark-ar.svg" style="width: 7em; height: 2.4375em;">
+		<img class="mw-logo-tagline" alt="" src="/static/images/mobile/copyright/wikipedia-tagline-ar.svg" width="105" height="22" style="width: 6.5625em; height: 1.375em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A8%D8%AD%D8%AB" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="ابحث في ويكيبيديا [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>بحث</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="ابحث في ويكيبيديا" aria-label="ابحث في ويكيبيديا" autocapitalize="sentences" title="ابحث في ويكيبيديا [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="خاص:بحث">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">بحث</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="أدوات شخصية">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-sitesupport" class="mw-list-item user-links-collapsible-item"><a data-mw="interface" href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ar.wikipedia.org&amp;uselang=ar" title="ادعمنا" class=""><span>تبرع</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="المظهر">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="تغيير مظهر الصفحة، حجم الخط، العرض واللون" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="المظهر"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">المظهر</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D8%AD%D8%B3%D8%A7%D8%A8&amp;returnto=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9+%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" title="نشجعك على عمل حساب وتسجيل دخولك؛ لكنه غير ضروري على اي حال" class=""><span>إنشاء حساب</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%AF%D8%AE%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85&amp;returnto=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9+%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" title="يفضل أن تسجل الدخول، لكنه ليس إلزاميا. [o]" accesskey="o" class=""><span>دخول</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="المزيد من الخيارات" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="أدوات شخصية"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">أدوات شخصية</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="قائمة المستخدم" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D8%AD%D8%B3%D8%A7%D8%A8&amp;returnto=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9+%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" title="نشجعك على عمل حساب وتسجيل دخولك؛ لكنه غير ضروري على اي حال"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>إنشاء حساب</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%AF%D8%AE%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85&amp;returnto=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9+%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" title="يفضل أن تسجل الدخول، لكنه ليس إلزاميا. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>دخول</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		صفحات للمحررين الذين سجَّلوا خروجهم <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D9%82%D8%AF%D9%85%D8%A9" aria-label="تعلَّم المزيد بخصوص التحرير"><span>تعلَّم المزيد</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A7%D8%AA%D9%8A" title="قائمة بتعديلات قام بها عنوان الآي بي [y]" accesskey="y"><span>مساهمات</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D9%86%D9%82%D8%A7%D8%B4%D9%8A" title="نقاش حول التعديلات من عنوان الأيبي هذا [n]" accesskey="n"><span>نقاش</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E\u003Ca tabindex=\"0\" role=\"button\"\u003E\u003C/a\u003E\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003C!-- CentralNotice --\u003E\u003Cdiv id=\"localNotice\" data-nosnippet=\"\"\u003E\u003Cdiv class=\"anonnotice\" lang=\"ar\" dir=\"rtl\"\u003E\u003Ctable style=\"border: 1px solid #a40007; padding: 10px; width:100%; background-image: linear-gradient(#000000,#000000)\"\u003E\n\u003Ctbody\u003E\u003Ctr\u003E\n\u003Ctd style=\"width:10%\"\u003E\u003Cspan typeof=\"mw:File\"\u003E\u003Ca href=\"/wiki/%D9%85%D9%84%D9%81:Arabic_Wikipedia_Logo_Gaza_(3).svg\" class=\"mw-file-description\"\u003E\u003Cimg src=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arabic_Wikipedia_Logo_Gaza_%283%29.svg/70px-Arabic_Wikipedia_Logo_Gaza_%283%29.svg.png\" decoding=\"async\" width=\"70\" height=\"99\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arabic_Wikipedia_Logo_Gaza_%283%29.svg/105px-Arabic_Wikipedia_Logo_Gaza_%283%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arabic_Wikipedia_Logo_Gaza_%283%29.svg/140px-Arabic_Wikipedia_Logo_Gaza_%283%29.svg.png 2x\" data-file-width=\"241\" data-file-height=\"342\" /\u003E\u003C/a\u003E\u003C/span\u003E\n\u003C/td\u003E\n\u003Ctd style=\"width:80%; text-align:center ; color:white\"\u003E\u003Cspan style=\"font-size:100%\"\u003E\n\u003Cp\u003E\u003Cb\u003E\u003Ca href=\"/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A3%D9%88%D9%82%D9%81%D9%88%D8%A7_%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_%D9%88%D8%A7%D9%86%D8%B4%D8%B1%D9%88%D8%A7_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85\" title=\"ويكيبيديا:أوقفوا الحرب وانشروا السلام\"\u003E\u003Cspan style=\"color:white\"\u003Eتضامنًا\u003C/span\u003E\u003C/a\u003E مع حق الشعب \u003Ca href=\"/wiki/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86\" title=\"فلسطين\"\u003E\u003Cspan style=\"color:white\"\u003Eالفلسطيني\u003C/span\u003E\u003C/a\u003E\u003C/b\u003E\u003Cbr /\u003E\n\u003Cb\u003Eلا \u003Ca href=\"/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9_2023\" class=\"mw-redirect\" title=\"الحرب الفلسطينية الإسرائيلية 2023\"\u003E\u003Cspan style=\"color:red\"\u003Eللإبادة الجماعية في غزة\u003C/span\u003E\u003C/a\u003E\u003C/b\u003E .... \u003Cb\u003Eلا \u003Ca href=\"/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D8%B0%D8%A7%D8%A8%D8%AD_%D8%AE%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9_2023\" title=\"تصنيف:مذابح خلال الحرب الفلسطينية الإسرائيلية 2023\"\u003E\u003Cspan style=\"color:red\"\u003Eلقتل المدنيين\u003C/span\u003E\u003C/a\u003E\u003C/b\u003E\u003Cbr /\u003E \n\u003Cb\u003Eلا \u003Ca href=\"/wiki/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9_%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%AF%D8%A7%D9%86%D9%8A\" title=\"مجزرة مستشفى المعمداني\"\u003E\u003Cspan style=\"color:red\"\u003Eلاستهداف المستشفيات والمدارس\u003C/span\u003E\u003C/a\u003E\u003C/b\u003E .... \u003Cb\u003Eلا \u003Ca href=\"/wiki/%D8%B9%D9%85%D9%84%D9%8A%D8%A9_%D8%B7%D9%88%D9%81%D8%A7%D9%86_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89#الدعاية_الإسرائيلية\" title=\"عملية طوفان الأقصى\"\u003E\u003Cspan style=\"color:red\"\u003Eللتضليل والكيل بمكيالين\u003C/span\u003E\u003C/a\u003E\u003C/b\u003E\u003Cbr /\u003E\n\u003Cb\u003E\u003Ca href=\"/wiki/%D9%88%D9%82%D9%81_%D8%A5%D8%B7%D9%84%D8%A7%D9%82_%D8%A7%D9%84%D9%86%D8%A7%D8%B1_%D9%81%D9%8A_%D8%BA%D8%B2%D8%A9_2023\" class=\"mw-redirect\" title=\"وقف إطلاق النار في غزة 2023\"\u003E\u003Cspan style=\"color:white\"\u003Eأوقفوا الحرب\u003C/span\u003E\u003C/a\u003E .... وانشروا السلام العادل والشامل\u003C/b\u003E\n\u003C/p\u003E\n\n\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="الموقع">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar vector-page-titlebar-blank">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" style="display: none"><span class="mw-page-title-main">الصفحة الرئيسة</span></h1>
+						<div class="mw-indicators">
+		</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="نطاقات">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" title="اعرض صفحة المحتوى [c]" accesskey="c"><span>الصفحة الرئيسة</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" rel="discussion" title="نقاش صفحة المحتوى [t]" accesskey="t"><span>نقاش</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="غيّر لهجة اللغة"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">العربية</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="معاينة">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9"><span>اقرأ</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=edit" title="هذه الصفحة محمية.&#10;يمكنك مطالعة مصدرها. [e]" accesskey="e"><span>عرض المصدر</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=history" title="النسخ السابقة لهذه الصفحة [h]" accesskey="h"><span>تاريخ</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="أدوات الصفحة">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="أدوات"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">أدوات</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">أدوات</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">انقل للشريط الجانبي</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">أخف</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="المزيد من الخيارات" >
+	<div class="vector-menu-heading">
+		إجراءات
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9"><span>اقرأ</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=edit"><span>عرض المصدر</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=history"><span>تاريخ</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		عام
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D9%85%D8%A7%D8%B0%D8%A7_%D9%8A%D8%B5%D9%84_%D9%87%D9%86%D8%A7/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" title="قائمة بكل صفحات الويكي التي تصل هنا [j]" accesskey="j"><span>ماذا يصل هنا</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A3%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%88%D9%84%D8%A9/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9" rel="nofollow" title="أحدث التغييرات في الصفحات الموصولة من هذه الصفحة [k]" accesskey="k"><span>تغييرات ذات علاقة</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/ويكيبيديا:رفع" title="ارفع ملفات [u]" accesskey="u"><span>رفع ملف</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%B5%D9%81%D8%AD%D8%A7%D8%AA_%D8%AE%D8%A7%D8%B5%D8%A9" title="قائمة بكل الصفحات الخاصة [q]" accesskey="q"><span>الصفحات الخاصة</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;oldid=66860132" title="وصلة دائمة لهذه النسخة من الصفحة"><span>وصلة دائمة</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=info" title="المزيد من المعلومات عن هذه الصفحة"><span>معلومات الصفحة</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF&amp;page=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;id=66860132&amp;wpFormIdentifier=titleform" title="معلومات عن كيفية الاستشهاد بالصفحة"><span>استشهد بهذه الصفحة</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%AA%D9%82%D8%B5%D9%8A%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1&amp;url=https%3A%2F%2Far.wikipedia.org%2Fwiki%2F%25D8%25A7%25D9%2584%25D8%25B5%25D9%2581%25D8%25AD%25D8%25A9_%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D8%25A9"><span>احصل على مسار مختصر</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:QrCode&amp;url=https%3A%2F%2Far.wikipedia.org%2Fwiki%2F%25D8%25A7%25D9%2584%25D8%25B5%25D9%2581%25D8%25AD%25D8%25A9_%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D8%25A9"><span>تنزيل رمز الاستجابة السريعة</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		طباعة/تصدير
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D9%83%D8%AA%D8%A7%D8%A8&amp;bookcmd=book_creator&amp;referer=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9+%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9"><span>إنشاء كتاب</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:DownloadAsPdf&amp;page=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=show-download-screen"><span>تحميل PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;printable=yes" title="نسخة للطباعة لهذه الصفحة [p]" accesskey="p"><span>نسخة للطباعة</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		في مشاريع أخرى
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ويكيميديا كومنز</span></a></li><li class="wb-otherproject-link wb-otherproject-foundation mw-list-item"><a href="https://foundation.wikimedia.org/wiki/Home" hreflang="en"><span>مؤسسة ويكيميديا</span></a></li><li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en"><span>ميدياويكي</span></a></li><li class="wb-otherproject-link wb-otherproject-meta mw-list-item"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ميتاويكي</span></a></li><li class="wb-otherproject-link wb-otherproject-outreach mw-list-item"><a href="https://outreach.wikimedia.org/wiki/Main_Page" hreflang="en"><span>التواصل مع ويكيميديا</span></a></li><li class="wb-otherproject-link wb-otherproject-sources mw-list-item"><a href="https://wikisource.org/wiki/Main_Page" hreflang="en"><span>ويكي مصدر متعدد اللغات</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ويكي الأنواع</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://ar.wikibooks.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar"><span>ويكي الكتب</span></a></li><li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en"><span>ويكي بيانات</span></a></li><li class="wb-otherproject-link wb-otherproject-wikifunctions mw-list-item"><a href="https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page" hreflang="en"><span>ويكي الدوال</span></a></li><li class="wb-otherproject-link wb-otherproject-wikimania badge-Q70894304 mw-list-item" title=""><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en"><span>ويكيمانيا</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ar.wikinews.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar"><span>ويكي الأخبار</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://ar.wikiquote.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar"><span>ويكي الاقتباس</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar"><span>ويكي مصدر</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiversity mw-list-item"><a href="https://ar.wikiversity.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar"><span>ويكي الجامعة</span></a></li><li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item"><a href="https://ar.wiktionary.org/wiki/%D9%88%D9%8A%D9%83%D8%A7%D9%85%D9%88%D8%B3:%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar"><span>ويكاموس</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="وصلة إلى المادة المرتبطة في مستودع البيانات المركزي [g]" accesskey="g"><span>عنصر ويكي بيانات</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="أدوات الصفحة">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="المظهر">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">المظهر</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">انقل للشريط الجانبي</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">أخف</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+					
+						<div id="siteSub" class="noprint">من ويكيبيديا، الموسوعة الحرة</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-rtl mw-parser-output" lang="ar" dir="rtl"><style data-mw-deduplicate="TemplateStyles:r66428893">.mw-parser-output .mp-main{display:flex;flex-wrap:nowrap;max-width:100%}.mw-parser-output .mp-right{flex:65%;display:flex;flex-direction:column;float:right;max-width:65%;width:64%}.mw-parser-output .mp-tfa{flex-grow:1}.mw-parser-output .mp-tga{flex-grow:2}.mw-parser-output .mp-tfl{flex-grow:3}.mw-parser-output .mp-tfi{flex-grow:4}.mw-parser-output .mp-tfp{flex-grow:5}.mw-parser-output .mp-what{flex-grow:6}.mw-parser-output .mp-left{flex:35%;display:flex;flex-direction:column;float:left;max-width:35%;width:35%}.mw-parser-output .mp-itn{flex-grow:1}.mw-parser-output .mp-itd{flex-grow:2}.mw-parser-output .mp-dyk{flex-grow:3}.mw-parser-output .mp-said{flex-grow:4}.mw-parser-output .mp-cil{flex-grow:5}.mw-parser-output .mp-creatbox{flex-grow:6}@media screen and (min-width:845px){.mw-parser-output .mp-whatresponsive{display:none}}.mw-parser-output .mp-Sec{padding:10px;margin:3px;border:1px solid #c6c9ff;border-radius:5px;color:#000;background:#fafaff}.mw-parser-output .mp-SecTitle{position:relative;height:25px;margin:2px 0 8px 0;top:4px}.mw-parser-output .mp-SecCont{position:absolute;right:4px;top:-5px}.mw-parser-output .mp-SecBg{position:relative;right:-8px;top:0}.mw-parser-output .mp-SecIcon{position:absolute;right:-3px;top:-6px}.mw-parser-output .mp-h2{position:absolute;right:40px;top:1px;font-weight:bold;font-size:130%}body .mw-parser-output img{max-width:100%;height:auto}@media screen and (max-width:845px){.mw-parser-output .mp-main{flex-direction:column}.mw-parser-output .mp-right{float:none;min-width:100%}.mw-parser-output .mp-tfa{order:1}.mw-parser-output .mp-tga{order:3}.mw-parser-output .mp-tfl{order:4}.mw-parser-output .mp-tfi{order:2}.mw-parser-output .mp-left{float:none;min-width:100%}.mw-parser-output .mp-itn{order:1}.mw-parser-output .mp-itd{order:2}.mw-parser-output .mp-dyk{order:3}.mw-parser-output .mp-whatresponsive{order:4}.mw-parser-output .mp-tfp,.mw-parser-output .mp-said,.mw-parser-output .mp-cil,.mw-parser-output .mp-creatbox,.mw-parser-output .mp-what{display:none}}.mw-parser-output .pcs-widen-image-ancestor{width:initial!important;height:initial!important}.mw-parser-output div[class="mp-SecCont pcs-widen-image-ancestor"]{position:initial!important}.mw-parser-output .mp-intro,.mw-parser-output .mp-sister{background:#f8f8f8;clear:both}.mw-parser-output #sister-projects-list{width:100%!important;text-align:center!important}.mw-parser-output #sister-projects-list div{text-align:right!important}.mw-parser-output .mp-intro tr:nth-child(2) table{float:left!important}@media screen and (max-width:845px){body.skin-minerva .mw-parser-output table,body.skin-minerva .mw-parser-output tbody,body.skin-minerva .mw-parser-output tr,body.skin-minerva .mw-parser-output td{display:block!important;width:100%!important;box-sizing:border-box}body .mw-parser-output table,body .mw-parser-output tbody,body .mw-parser-output tr,body .mw-parser-output td{display:block!important;width:100%!important;box-sizing:border-box}.mw-parser-output #wikiportals tbody tr:nth-child(1){text-align:center}}@media screen and (min-width:480px){.mw-parser-output #wikiportals tbody tr:nth-child(1){columns:3 auto}}@media screen and (min-width:320px)and (max-width:480px){.mw-parser-output #wikiportals tbody tr:nth-child(1){columns:2 auto}}html.skin-theme-clientpref-night .mw-parser-output .mp-wcbaner img,html.skin-theme-clientpref-night .mw-parser-output .mp-sociallogos img{filter:invert(1)}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .mp-wcbaner img,html.skin-theme-clientpref-os .mw-parser-output .mp-sociallogos{filter:invert(1)}}</style>
+ <div class="mp-intro mp-Sec">
+<table style="width:100%; margin-bottom:2px; margin-top:2px; vertical-align:top; font-size:100%; background:transparent; text-align:center;">
+<tbody><tr>
+<td style="width:70%; border:none; margin:10px 0; padding-left: 1em;">
+<div class="mp-wcbaner" style="margin-bottom:1em;"><span typeof="mw:File"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7" title="مرحبًا بكم في ويكيبيديا"><img alt="مرحبًا بكم في ويكيبيديا" src="//upload.wikimedia.org/wikipedia/ar/thumb/1/1b/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D8%AB%D9%84%D8%AB-%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A9.png/530px-%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D8%AB%D9%84%D8%AB-%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A9.png" decoding="async" width="530" height="89" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/ar/thumb/1/1b/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D8%AB%D9%84%D8%AB-%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A9.png/795px-%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D8%AB%D9%84%D8%AB-%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A9.png 1.5x, //upload.wikimedia.org/wikipedia/ar/thumb/1/1b/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D8%AB%D9%84%D8%AB-%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A9.png/1060px-%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D8%AB%D9%84%D8%AB-%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A9.png 2x" data-file-width="1163" data-file-height="196" /></a></span></div>
+<p><b>مشروع <a href="/wiki/%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9" title="موسوعة">موسوعة</a> <a href="/wiki/%D9%85%D8%AD%D8%AA%D9%88%D9%89_%D8%AD%D8%B1" title="محتوى حر">حرة</a> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D9%82%D8%AF%D9%85%D8%A9" title="ويكيبيديا:مقدمة">يستطيع الجميع تحريرها</a>. توجد الآن <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%D8%A7%D8%AA" title="خاص:إحصاءات">1٬243٬801</a> مقالة <a href="/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="اللغة العربية">بالعربية</a>.</b>
+</p>
+</td>
+<td><b> <a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%89_%D9%85%D8%AA%D9%85%D9%8A%D8%B2" title="بوابة:محتوى متميز">محتوى متميز</a> · <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B5%D9%81%D8%AD" title="ويكيبيديا:تصفح">التصنيفات</a> · <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%81%D9%87%D8%B1%D8%B3_%D8%B3%D8%B1%D9%8A%D8%B9" title="ويكيبيديا:فهرس سريع">فهرس أ-ي</a></b>
+<table id="wikiportals" style="width:100%; border-top:1px dashed #cfe0f3; text-align: right; font-size:95%;">
+
+<tbody><tr>
+<td><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%A7%D9%86" title="بوابة:الأديان"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/21px-P_religion_world.svg.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/32px-P_religion_world.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/42px-P_religion_world.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%A7%D9%86" title="بوابة:الأديان">أديان</a> <br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%B9%D9%84%D8%A7%D9%85" title="بوابة:أعلام"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/17px-P_vip.svg.png" decoding="async" width="17" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/26px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/34px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%B9%D9%84%D8%A7%D9%85" title="بوابة:أعلام">أعلام</a> <br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE" title="بوابة:التاريخ"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/22px-P_history.svg.png" decoding="async" width="22" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/33px-P_history.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/44px-P_history.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE" title="بوابة:التاريخ">تاريخ</a><br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AA%D9%82%D9%86%D9%8A%D8%A9" title="بوابة:تقنية"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/P_technology.png/21px-P_technology.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/P_technology.png/32px-P_technology.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/P_technology.png/42px-P_technology.png 2x" data-file-width="205" data-file-height="186" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AA%D9%82%D8%A7%D9%86%D8%A9" title="بوابة:تقانة">تقانة</a> <br />
+</td>
+<td><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AB%D9%82%D8%A7%D9%81%D8%A9" title="بوابة:ثقافة"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/21px-P_literature.svg.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/32px-P_literature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/42px-P_literature.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AB%D9%82%D8%A7%D9%81%D8%A9" title="بوابة:ثقافة">ثقافة</a> <br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7" title="بوابة:جغرافيا"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/P_globe.svg/21px-P_globe.svg.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/P_globe.svg/32px-P_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/P_globe.svg/42px-P_globe.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7" title="بوابة:جغرافيا">جغرافيا</a><br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA" title="بوابة:رياضيات"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/P_mathematics.svg/21px-P_mathematics.svg.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/P_mathematics.svg/32px-P_mathematics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/P_mathematics.svg/42px-P_mathematics.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA" title="بوابة:رياضيات">رياضيات</a> <br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B7%D8%A8" title="بوابة:طب"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/P_medicine3.png/21px-P_medicine3.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/P_medicine3.png/32px-P_medicine3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/P_medicine3.png/42px-P_medicine3.png 2x" data-file-width="364" data-file-height="330" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B7%D8%A8" title="بوابة:طب">طب</a> <br />
+</td>
+<td><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B7%D9%8A%D8%B1%D8%A7%D9%86" title="بوابة:طيران"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/P_WWII.png/21px-P_WWII.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/P_WWII.png/32px-P_WWII.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/P_WWII.png/42px-P_WWII.png 2x" data-file-width="200" data-file-height="183" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B7%D9%8A%D8%B1%D8%A7%D9%86" title="بوابة:طيران">طيران</a> <br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B9%D9%84%D9%88%D9%85" title="بوابة:علوم"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/P_Science.png/21px-P_Science.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/P_Science.png/32px-P_Science.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/P_Science.png/42px-P_Science.png 2x" data-file-width="625" data-file-height="562" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B9%D9%84%D9%88%D9%85" title="بوابة:علوم">علوم</a> <br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9" title="بوابة:رياضة"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/20px-P_sport.svg.png" decoding="async" width="20" height="18" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/30px-P_sport.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/40px-P_sport.svg.png 2x" data-file-width="75" data-file-height="66" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9" title="بوابة:رياضة">رياضة</a><br /><span typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1" title="بوابة:كيمياء"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/P_chemistry.svg/21px-P_chemistry.svg.png" decoding="async" width="21" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/P_chemistry.svg/32px-P_chemistry.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/P_chemistry.svg/42px-P_chemistry.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span>&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1" title="بوابة:الكيمياء">كيمياء</a> <br />
+</td></tr>
+<tr>
+<td colspan="3" style="text-align: center;">&#160;<a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AA%D8%B5%D9%81%D8%AD" title="بوابة:تصفح"><b>تصفح كل البوابات</b></a>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="border-top:1px dashed #cfe0f3; text-align: center; font-size:95%;">
+<div style="margin-left:10%;">
+<table class="mp-sociallogos" style="float:left;">
+<tbody><tr>
+<td><span typeof="mw:File"><a href="https://www.facebook.com/ArabicWikipedia/" title="الحساب الرسمي على فيسبوك" rel="nofollow"><img alt="الحساب الرسمي على فيسبوك" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Icon_Facebook.svg/20px-Icon_Facebook.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Icon_Facebook.svg/30px-Icon_Facebook.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Icon_Facebook.svg/40px-Icon_Facebook.svg.png 2x" data-file-width="512" data-file-height="513" /></a></span>&#160;<span typeof="mw:File"><a href="https://x.com/ArabicWikipedia/" title="الحساب الرسمي على تويتر" rel="nofollow"><img alt="الحساب الرسمي على تويتر" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/X_icon_-_Gray.svg/20px-X_icon_-_Gray.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/X_icon_-_Gray.svg/30px-X_icon_-_Gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/X_icon_-_Gray.svg/40px-X_icon_-_Gray.svg.png 2x" data-file-width="150" data-file-height="150" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.instagram.com/arabicwikipedia/" title="الحساب الرسمي على إنستغرام" rel="nofollow"><img alt="الحساب الرسمي على إنستغرام" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Instagram_circle.svg/20px-Instagram_circle.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Instagram_circle.svg/30px-Instagram_circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Instagram_circle.svg/40px-Instagram_circle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.youtube.com/@ArabicWikipedia" title="الحساب الرسمي على يوتيوب" rel="nofollow"><img alt="الحساب الرسمي على يوتيوب" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/YouTube_social_dark_circle_%282017%29.svg/20px-YouTube_social_dark_circle_%282017%29.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/YouTube_social_dark_circle_%282017%29.svg/30px-YouTube_social_dark_circle_%282017%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/YouTube_social_dark_circle_%282017%29.svg/40px-YouTube_social_dark_circle_%282017%29.svg.png 2x" data-file-width="300" data-file-height="300" /></a></span>
+</td></tr></tbody></table></div>
+<p><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B9%D9%86" title="ويكيبيديا:عن">عن ويكيبيديا</a>
+<b>·</b> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8_%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D8%AF%D8%AF" title="ويكيبيديا:ترحيب بالقادمين الجدد">مرحبًا بالزوار الجدد</a> 
+<b>·</b> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AF%D8%B1%D9%88%D8%B3" title="ويكيبيديا:دروس">كيفية تعديل الصفحات</a>  
+<b>·</b> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AD%D9%82%D9%88%D9%82_%D8%A7%D9%84%D8%AA%D8%A3%D9%84%D9%8A%D9%81_%D9%88%D8%A7%D9%84%D9%86%D8%B4%D8%B1" title="ويكيبيديا:حقوق التأليف والنشر">حقوق النشر</a> 
+<b>·</b> <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D8%A3%D8%B3%D8%A6%D9%84%D8%A9_(%D8%AA%D9%88%D8%B6%D9%8A%D8%AD)" title="مساعدة:أسئلة (توضيح)">أسئلة</a>
+<b>·</b> <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="مساعدة:محتويات">مساعدة</a> 
+</p>
+<div style="margin-bottom:2px; text-align:center; font-size: 95%;">السبت <a href="/wiki/26_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="26 أكتوبر">26 أكتوبر</a>/<a href="/wiki/%D8%AA%D8%B4%D8%B1%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D9%84" title="تشرين الأول">تشرين الأول</a> <a href="/wiki/2024" title="2024">2024</a> الموافق <a href="/wiki/23_%D8%B1%D8%A8%D9%8A%D8%B9_%D8%A7%D9%84%D8%A2%D8%AE%D8%B1" title="23 ربيع الآخر">23 ربيع الآخر</a> <a href="/wiki/1446_%D9%87%D9%80" title="1446 هـ">1446 هـ</a></div>
+</td></tr>
+</tbody></table></div>
+ <div class="mp-main">
+ <div class="mp-right">
+ <div class="mp-tfa mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/HSutvald3.svg/38px-HSutvald3.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/HSutvald3.svg/57px-HSutvald3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/HSutvald3.svg/76px-HSutvald3.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">مقالة اليوم المختارة</span>
+</p>
+</div>
+</div>
+<p><b><a href="/wiki/%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2_%D9%81%D9%8A%D8%B3%D8%AA%D8%A7" title="ويندوز فيستا">ويندوز فيستا</a></b> (<a href="/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9" title="اللغة الإنجليزية">بالإنجليزية</a>: <span class="mw-content-ltr" lang="en" dir="ltr">Windows Vista</span>)‏ هو أحد إصدارات <a href="/wiki/%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA_%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2" title="مايكروسوفت ويندوز">مايكروسوفت ويندوز</a>، وهو <a href="/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84" title="نظام تشغيل">نظام تشغيل</a> رسومي من <a href="/wiki/%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA" title="مايكروسوفت">مايكروسوفت</a> <a href="/wiki/%D8%AD%D8%A7%D8%B3%D9%88%D8%A8_%D8%B4%D8%AE%D8%B5%D9%8A" title="حاسوب شخصي">للحاسبات الشخصية</a> التي تشمل حاسبات المنازل والأعمال والحاسبات المحمولة والحاسبات الإعلامية. قبل الإعلان عن الاسم "فيستا" في <a href="/wiki/22_%D9%8A%D9%88%D9%84%D9%8A%D9%88" title="22 يوليو">22 تموز/يوليو</a> عام <a href="/wiki/2005" title="2005">2005</a>، كان نظام التشغيل هذا معروفًا بالاسم الكودي <b>لونغهورن</b>. انتهى تطوير مايكروسوفت فيستا في 8 نوفمبر 2006، وفي الثلاثة أشهر التالية، تم توزيعه من خلال ثلاثة مراحل على مطوري البرمجيات ومصنعي أجهزة الحاسوب وأصحاب الشركات والموزعين. وفي 30 يناير 2007، أصبح ويندوز فيستا مُتاحًا لعامة الناس وأيضًا مُتاحًا للتحميل في موقع مايكروسوفت. تُعد هذه أطول فترة انتظرتها مايكروسوفت قبل أن تطلق نظام تشغيل رئيسيًّا جديدًا، حيث أن آخر نظام تشغيل لها كان قبل خمس سنوات وهو <a href="/wiki/%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2_%D8%A5%D9%83%D8%B3_%D8%A8%D9%8A" title="ويندوز إكس بي">ويندوز إكس بي</a>. ويندوز ڤيستا لديه المئات من الميزات الجديدة، ولعل أهمها يتضمن واجهة مستخدم جديدة تسمى <a href="/wiki/%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2_%D8%A5%D8%B1%D9%88" title="ويندوز إرو">ويندوز إرو</a>، وميزات بحث محسنة، وأدوات جديدة لإنشاء <a href="/wiki/%D9%88%D8%B3%D8%A7%D8%A6%D8%B7_%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9" title="وسائط متعددة">الوسائط المتعددة</a> مثل صانع أقراص <a href="/wiki/%D8%AF%D9%8A_%D9%81%D9%8A_%D8%AF%D9%8A" title="دي في دي">الدي في دي</a>، وأنظمة فرعية جديدة ومعاد تصميمها بالكامل للتشبيك والصوت والطباعة والعرض. يهدف ڤيستا إلى زيادة مستوي التواصل بين الحاسبات داخل الشبكات المنزلية من خلال تقنية <a href="/wiki/%D9%86%D8%AF_%D9%84%D9%86%D8%AF" title="ند لند">الند للند</a>، مما يسهل عملية <a href="/wiki/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA" title="مشاركة الملفات">مشاركة الملفات</a> وإعدادات كلمة المرور والوسائط الإعلامية الرقمية بين الحاسبات والمعدات. وبالنسبة للمطورين، فإن نظام ڤيستا يقدم الإصدار الثالث من "<a href="/wiki/%D8%AF%D9%88%D8%AA_%D9%86%D8%AA_%D9%81%D8%B1%D9%8A%D9%85%D9%88%D9%88%D8%B1%D9%83" title="دوت نت فريموورك">إطار عمل .نت</a>" الذي يهدف إلى جعل الأمر أسهل بكثير للمطورين الذين يكتبون تطبيقات عالية الجودة من استخدام "واجهة برمجة تطبيقات" الويندوز التقليدية.
+</p>
+<p style="text-align: left;"><span style="color: #424242"><a href="/wiki/%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2_%D9%81%D9%8A%D8%B3%D8%AA%D8%A7" title="ويندوز فيستا">تابع القراءة</a></span></p>
+<div style="border-top:1px dashed #cfe0f3; text-align: left; font-size:95%;"><div style="font-size:95%;text-align:center;padding:1px 1px 0px 0;">
+<p><b>مقالات مختارة أخرى:</b> <a href="/wiki/%D8%AC%D9%88%D8%B1%D8%AC_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D9%85%D9%84%D9%83_%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D8%B9%D8%B8%D9%85%D9%89" title="جورج الأول ملك بريطانيا العظمى">جورج الأول ملك بريطانيا العظمى</a> – <a href="/wiki/%D8%A7%D9%84%D8%BA%D8%B2%D9%88_%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A_%D9%84%D8%A8%D9%8A%D8%AA%D9%8A%D9%86" title="الغزو الإسباني لبيتين">الغزو الإسباني لبيتين</a> – <a href="/wiki/%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%B1_(%D9%83%D9%88%D9%83%D8%A8%D8%A9)" title="الجبار (كوكبة)">الجبار (كوكبة)</a><br />
+<a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" title="ويكيبيديا:مقالات مختارة">ما هي المقالات المختارة؟</a> – <a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA" title="بوابة:برمجيات">بوابة برمجيات</a> – <a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA" title="بوابة:مايكروسوفت">بوابة مايكروسوفت</a>
+</p>
+</div></div>
+	  </div>
+	  <div class="mp-tga mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/HSUtvaldgrey.png/38px-HSUtvaldgrey.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/HSUtvaldgrey.png/57px-HSUtvaldgrey.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/HSUtvaldgrey.png/76px-HSUtvaldgrey.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">مقالة اليوم الجيدة</span>
+</p>
+</div>
+</div>
+<figure class="mw-halign-left" typeof="mw:File"><a href="/wiki/%D9%85%D9%84%D9%81:Ibn_al-Nafis.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ibn_al-Nafis.jpg/200px-Ibn_al-Nafis.jpg" decoding="async" width="200" height="239" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/4/4c/Ibn_al-Nafis.jpg 1.5x" data-file-width="202" data-file-height="241" /></a><figcaption></figcaption></figure>
+<p><b><a href="/wiki/%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3" title="ابن النفيس">أبو الحسن علاء الدين علي بن أبي الحرم القَرشي الدمشقي</a></b> (<a href="/wiki/1213" title="1213">1213</a>  - <a href="/wiki/1288" title="1288">1288</a>) الملقب <b>بابن النفيس</b> ويعرف أحيانا بالقَرَشي بفتح القاف والراء نسبة إلى بلدة القرَش بقرب <a href="/wiki/%D8%AF%D9%85%D8%B4%D9%82" title="دمشق">دمشق</a>.  هو <a href="/wiki/%D8%B9%D8%A7%D9%84%D9%85_(%D8%AA%D9%88%D8%B6%D9%8A%D8%AD)" class="mw-disambig" title="عالم (توضيح)">عالم</a> <a href="/wiki/%D8%B9%D9%84%D8%A7%D9%85%D8%A9_(%D9%84%D9%82%D8%A8)" title="علامة (لقب)">علاّمة</a> <a href="/wiki/%D8%B7%D8%A8%D9%8A%D8%A8" title="طبيب">وطبيب</a> <a href="/wiki/%D8%B9%D8%B1%D8%A8" title="عرب">عربي</a> <a href="/wiki/%D9%85%D8%B3%D9%84%D9%85" title="مسلم">مسلم</a> يعد مكتشف <a href="/wiki/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%B5%D8%BA%D8%B1%D9%89" title="الدورة الدموية الصغرى">الدورة الدموية الصغرى</a> وأحد رواد علم وظائف الأعضاء في الإنسان. وضع نظريات يعتمد عليها العلماء إلى الآن. عين رئيسا <a href="/wiki/%D8%B7%D8%A8" title="طب">لأطباء</a> <a href="/wiki/%D9%85%D8%B5%D8%B1" title="مصر">مصر</a> ويعتبره كثيرون أعظم <a href="/wiki/%D8%B9%D9%84%D9%85_%D9%88%D8%B8%D8%A7%D8%A6%D9%81_%D8%A7%D9%84%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1" title="علم وظائف الأعضاء">علماء منافع الأعضاء</a> في <a href="/wiki/%D8%A7%D9%84%D8%B9%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D9%89" title="العصور الوسطى">العصور الوسطى</a>. ظل الغرب يعتمدون على نظريته حول الدورة الدموية، حتى اكتشف <a href="/wiki/%D9%88%D9%8A%D9%84%D9%8A%D8%A7%D9%85_%D9%87%D8%A7%D8%B1%D9%81%D9%8A" title="ويليام هارفي">ويليام هارفي</a> <a href="/wiki/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89" title="الدورة الدموية الكبرى">الدورة الدموية الكبرى</a>. في عام 1242، نشر ابن النفيس أكثر أعماله شهرة، وهو كتاب "شرح <a href="/wiki/%D8%AA%D8%B4%D8%B1%D9%8A%D8%AD" title="تشريح">تشريح</a> <a href="/wiki/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D8%B7%D8%A8" title="القانون في الطب">قانون</a> <a href="/wiki/%D8%A7%D8%A8%D9%86_%D8%B3%D9%8A%D9%86%D8%A7" title="ابن سينا">ابن سينا</a>"، الذي تضمن العديد من الاكتشافات التشريحية الجديدة، وأهمها نظريته حول <a href="/wiki/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%B5%D8%BA%D8%B1%D9%89" title="الدورة الدموية الصغرى">الدورة الدموية الصغرى</a> وحول الشريان التاجي، وقد اعتبر هذا الكتاب أحد أفضل الكتب العلمية التي شرحت بالتفصيل مواضيع <a href="/wiki/%D8%AA%D8%B4%D8%B1%D9%8A%D8%AD" title="تشريح">علم التشريح</a> <a href="/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6" title="علم الأمراض">وعلم الأمراض</a> <a href="/wiki/%D8%B9%D9%84%D9%85_%D9%88%D8%B8%D8%A7%D8%A6%D9%81_%D8%A7%D9%84%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1" title="علم وظائف الأعضاء">وعلم وظائف الأعضاء</a>، كما صوّب فيه العديد من نظريات <a href="/wiki/%D8%A7%D8%A8%D9%86_%D8%B3%D9%8A%D9%86%D8%A7" title="ابن سينا">ابن سينا</a>. فُقدت العديد من مؤلفات ابن النفيس عقب <a href="/wiki/%D8%B3%D9%82%D9%88%D8%B7_%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF_(1258)" title="سقوط بغداد (1258)">سقوط بغداد عام 1258</a>، الذي شهد خسارة وتدمير العديد من الكتب المهمة لكثير من علماء المسلمين.
+</p>
+<p style="text-align:left;"><span style="color: #424242"><a href="/wiki/%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3" title="ابن النفيس">تابع القراءة</a></span></p>
+<div style="border-top:1px dashed #cfe0f3; text-align: left; font-size:95%;"><div style="font-size:95%;text-align:center;padding:1px 1px 0px 0;">
+<p><b>مقالات جيدة أخرى:</b> <a href="/wiki/%D8%B1%D9%81%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D9%85%D9%8A%D8%A9" title="رفيدة الأسلمية">رفيدة الأسلمية</a> – <a href="/wiki/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D8%A9_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7" title="المسيحية في تركيا">المسيحية في تركيا</a> – <a href="/wiki/%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%85%D8%A9" title="الحسيمة">الحسيمة</a><br />
+<a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D8%AC%D9%8A%D8%AF%D8%A9" title="ويكيبيديا:مقالات جيدة">ما هي المقالات الجيدة؟</a> – <a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B9%D9%84%D9%85%D8%A7%D8%A1_%D9%85%D8%B3%D9%84%D9%85%D9%88%D9%86" class="mw-redirect" title="بوابة:علماء مسلمون">بوابة علماء مسلمون</a> – <a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B7%D8%A8" title="بوابة:طب">بوابة طب</a>
+</p>
+</div></div>
+	  </div>
+	  <div class="mp-tfl mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/38px-HS_Liste.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/57px-HS_Liste.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/76px-HS_Liste.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">قائمة اليوم المختارة</span>
+</p>
+</div>
+</div>
+<p><b><a href="/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA_%D8%AF%D9%88%D8%B1%D9%8A_%D8%A3%D8%A8%D8%B7%D8%A7%D9%84_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7" title="قائمة نهائيات دوري أبطال أوروبا">قائمة نهائيات دوري أبطال أوروبا</a></b> (<a href="/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9" title="اللغة الإنجليزية">بالإنجليزية</a>: <span class="mw-content-ltr" lang="en" dir="ltr">UEFA Champions League</span>)‏، والتي يشار إليها عادةً <b>بدوري الأبطال</b> فقط (<a href="/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9" title="اللغة الإنجليزية">بالإنجليزية</a>: <span class="mw-content-ltr" lang="en" dir="ltr">Champions League</span>)‏، هي بطولة <a href="/wiki/%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85" title="كرة القدم">كرة قدم</a> أوروبية سنوية ينظمها <a href="/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A_%D9%84%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85" title="الاتحاد الأوروبي لكرة القدم">الاتحاد الأوروبي لكرة القدم</a> منذ عام <a href="/wiki/1955" title="1955">1955</a> لأفضل أندية كرة القدم في أوروبا. ويشارك فيها أبطال الدوريات الأوروبية وهي بطولة مفتوحة لكل أعضاء الاتحاد الأوروبي لكرة القدم باستثناء <a href="/wiki/%D9%84%D9%8A%D8%AE%D8%AA%D9%86%D8%B4%D8%AA%D8%A7%D9%8A%D9%86" title="ليختنشتاين">ليختنشتاين</a> التي ليس لديها دوري. يعتبرها الكثيرون أهم بطولة في كرة القدم على مستوى الأندية في العالم، إذ تعتبر المباراة النهائية للبطولة أكثر الأحداث الرياضية السنوية مشاهدةً في جميع أنحاء العالم، فهي تجذب أكثر من 100 مليون مشاهد تلفزيوني. يعود الفضل في ولادة مسابقة <a href="/wiki/%D8%AF%D9%88%D8%B1%D9%8A_%D8%A3%D8%A8%D8%B7%D8%A7%D9%84_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7" title="دوري أبطال أوروبا">دوري أبطال أوروبا</a>، إلى صحافيين فرنسيين كانوا يعملون في <span class="m">صحيفة ليكيب</span> الرياضية الفرنسية، وعلى رأسهم غابريال هانو الذي اقترح إنشاء كأس أوروبا للأندية في عام <a href="/wiki/1954" title="1954">1954</a> ثم كتب زميله جاك دو ريزويك مقالاً يقترح فيه مشروع كأس أوروبا للأندية، ولاقى هذا الاقتراح ردود فعل إيجابية في <a href="/wiki/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7" title="أوروبا">القارة العجوز</a>، وتبع ذلك قيام جاك فيران من ليكيب أيضاً كتابة مسودة لنظام البطولة في <a href="/wiki/25_%D9%8A%D9%86%D8%A7%D9%8A%D8%B1" title="25 يناير">25 كانون الثاني/يناير</a> من العام <a href="/wiki/1955" title="1955">1955</a>.
+</p>
+<p style="text-align:left;"><span style="color: #424242"><a href="/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7_%D9%88%D8%AF%D9%88%D8%B1%D9%8A_%D8%A3%D8%A8%D8%B7%D8%A7%D9%84_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7" class="mw-redirect" title="قائمة نهائيات كأس أوروبا ودوري أبطال أوروبا">تابع القراءة</a></span></p>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%82%D9%88%D8%A7%D8%A6%D9%85_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" title="ويكيبيديا:قوائم مختارة">ما هي القوائم المختارة؟</a> <b>·</b> <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A_%D9%81%D9%8A_%D8%AA%D8%B5%D9%86%D9%8A%D9%81/%D9%82%D9%88%D8%A7%D8%A6%D9%85_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" title="خاص:عشوائي في تصنيف/قوائم مختارة">اقرأ قائمةً أُخرى</a></div>
+	  </div>
+	  <div class="mp-tfi mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">صورة اليوم المختارة</span>
+</p>
+</div>
+</div>
+<div style="text-align:center;">
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D9%85%D9%84%D9%81:Mausoleo_de_Shah_Cheragh,_Shiraz,_Ir%C3%A1n,_2016-09-24,_DD_32.jpg" class="mw-file-description" title="مسجد ومقام شاه‌ چراغ في مدينة شيراز بِإيران. يضم هذا المقام ضريح الأخوين أحمد ومُحمَّد أبناء الإمام موسى الكاظم وشقيقيّ الإمام علي الرضا."><img alt="مسجد ومقام شاه‌ چراغ في مدينة شيراز بِإيران. يضم هذا المقام ضريح الأخوين أحمد ومُحمَّد أبناء الإمام موسى الكاظم وشقيقيّ الإمام علي الرضا." src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mausoleo_de_Shah_Cheragh%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_32.jpg/350px-Mausoleo_de_Shah_Cheragh%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_32.jpg" decoding="async" width="350" height="262" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mausoleo_de_Shah_Cheragh%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_32.jpg/525px-Mausoleo_de_Shah_Cheragh%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_32.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mausoleo_de_Shah_Cheragh%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_32.jpg/700px-Mausoleo_de_Shah_Cheragh%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_32.jpg 2x" data-file-width="6589" data-file-height="4940" /></a><figcaption><a href="/wiki/%D8%B4%D8%A7%D9%87_%D8%AC%D8%B1%D8%A7%D8%BA" title="شاه جراغ">مسجد ومقام شاه‌ چراغ</a> في مدينة <a href="/wiki/%D8%B4%D9%8A%D8%B1%D8%A7%D8%B2" title="شيراز">شيراز</a> <a href="/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86" title="إيران">بِإيران</a>. يضم هذا المقام ضريح الأخوين <a href="/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D9%85%D9%88%D8%B3%D9%89_%D8%A7%D9%84%D9%83%D8%A7%D8%B8%D9%85" title="أحمد بن موسى الكاظم">أحمد</a> ومُحمَّد أبناء الإمام <a href="/wiki/%D9%85%D9%88%D8%B3%D9%89_%D8%A7%D9%84%D9%83%D8%A7%D8%B8%D9%85" title="موسى الكاظم">موسى الكاظم</a> وشقيقيّ الإمام <a href="/wiki/%D8%B9%D9%84%D9%8A_%D8%A7%D9%84%D8%B1%D8%B6%D8%A7" title="علي الرضا">علي الرضا</a>.</figcaption></figure>
+<div style="text-align:center;"><a href="/wiki/%D8%B4%D8%A7%D9%87_%D8%AC%D8%B1%D8%A7%D8%BA" title="شاه جراغ">مسجد ومقام شاه‌ چراغ</a> في مدينة <a href="/wiki/%D8%B4%D9%8A%D8%B1%D8%A7%D8%B2" title="شيراز">شيراز</a> <a href="/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86" title="إيران">بِإيران</a>. يضم هذا المقام ضريح الأخوين <a href="/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D9%85%D9%88%D8%B3%D9%89_%D8%A7%D9%84%D9%83%D8%A7%D8%B8%D9%85" title="أحمد بن موسى الكاظم">أحمد</a> ومُحمَّد أبناء الإمام <a href="/wiki/%D9%85%D9%88%D8%B3%D9%89_%D8%A7%D9%84%D9%83%D8%A7%D8%B8%D9%85" title="موسى الكاظم">موسى الكاظم</a> وشقيقيّ الإمام <a href="/wiki/%D8%B9%D9%84%D9%8A_%D8%A7%D9%84%D8%B1%D8%B6%D8%A7" title="علي الرضا">علي الرضا</a>.</div>
+</div>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B5%D9%88%D8%B1_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" title="ويكيبيديا:صور مختارة">معرض الصور المختارة</a> <b>·</b> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" title="ويكيبيديا:ترشيحات الصور المختارة">رشح صورك لتكون مختارة</a></div>
+ </div>
+	  <div class="mp-tfp mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HSHome.svg/38px-HSHome.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HSHome.svg/57px-HSHome.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HSHome.svg/76px-HSHome.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">بوابة اليوم المختارة</span>
+</p>
+</div>
+</div>
+<table style="margin:auto;border:0;">
+<tbody><tr>
+<td style="text-align:center;"><span class="mw-valign-middle" typeof="mw:File"><a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%84%D8%B3" title="بوابة:الأندلس"><img src="//upload.wikimedia.org/wikipedia/ar/thumb/7/76/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9_%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8%D9%8A%D8%A9_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%84%D8%B3.png/220px-%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9_%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8%D9%8A%D8%A9_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%84%D8%B3.png" decoding="async" width="220" height="104" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/ar/thumb/7/76/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9_%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8%D9%8A%D8%A9_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%84%D8%B3.png/330px-%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9_%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8%D9%8A%D8%A9_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%84%D8%B3.png 1.5x, //upload.wikimedia.org/wikipedia/ar/7/76/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9_%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8%D9%8A%D8%A9_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%84%D8%B3.png 2x" data-file-width="353" data-file-height="167" /></a></span>
+</td></tr>
+
+</tbody></table>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" title="ويكيبيديا:بوابات مختارة">ما هي البوابات المختارة؟</a> <b>·</b> <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A_%D9%81%D9%8A_%D8%AA%D8%B5%D9%86%D9%8A%D9%81/%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" title="خاص:عشوائي في تصنيف/بوابات مختارة">اطلع على بوابة أخرى</a></div>
+	  </div>
+<div class="mp-what mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/38px-HSWPedia.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/57px-HSWPedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/76px-HSWPedia.svg.png 2x" data-file-width="1500" data-file-height="1500" /></span></span></div>
+<p><span class="mp-h2">ما هي ويكيبيديا؟</span>
+</p>
+</div>
+</div>
+<p><b><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B9%D9%86" title="ويكيبيديا:عن">ويكيبيديا</a></b> مشروع تعاوني متعدد اللغات يضم <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A" title="ويكي">ويكيات</a> بأكثر من 300 لغة للعمل في مشاريع <a href="/wiki/%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9" title="موسوعة">موسوعات</a> حرة ودقيقة ومتكاملة ومتنوعة ومحايدة، يستطيع الجميع المساهمة في تحريرها. نشأت ويكيبيديا في عام 2001، حيث نمت وتطورت بسرعة لتصبح واحدة من أكبر المواقع على الإنترنت. بدأت <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="ويكيبيديا العربية">النسخة العربية</a> في <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="ويكيبيديا:تاريخ ويكيبيديا العربية">يوليو/تموز 2003</a>.<br />
+لدى ويكيبيديا بعض <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA_%D9%88%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%D8%A7%D8%AA" title="ويكيبيديا:سياسات وإرشادات">السياسات والإرشادات</a> التي تساعد متطوعيها على العمل فيها، بعض هذه السياسات لا تزال في طور التشكل، بينما استقرت سياسات أخرى منذ زمن، ومع أن سياسات ويكيبيديا مستمرة في النمو، إلا أن بعض <a href="/wiki/%D9%85%D8%AC%D8%AA%D9%85%D8%B9_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7" title="مجتمع ويكيبيديا">الويكيبيديين</a> يشعرون أن كتابة القواعد أمر لا يمكن له أن يغطي كل تنويعة على السلوك المثير أو الهادف لضرر. هؤلاء الذين يحررون <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%81%D8%AA%D8%B1%D8%B6_%D8%AD%D8%B3%D9%86_%D8%A7%D9%84%D9%86%D9%8A%D8%A9" title="ويكيبيديا:افترض حسن النية">بنية حسنة</a> ويظهرون <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A3%D8%AF%D8%A8" title="ويكيبيديا:أدب">سلوكًا مدنيًّا</a> ويسعون وراء <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D9%88%D8%A7%D9%81%D9%82" title="ويكيبيديا:توافق">التوافق</a> ويعملون لتحقيق هدفهم بالمشاركة في مشروع <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%88%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%86%D8%B8%D8%B1_%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%8A%D8%AF%D8%A9" title="ويكيبيديا:وجهة النظر المحايدة">موسوعي محايد</a>، سيجدون أنفسهم في <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A3%D8%AF%D8%A8" title="ويكيبيديا:أدب">بيئة مرحبة</a>.<br />
+يمكنك دائمًا المساعدة في بناء ويكيبيديا وتحسينها بالتعاون مع <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9" title="ويكيبيديا:بوابة المجتمع">المجتمع</a> عن طريق <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A7%D8%AA" title="مساعدة:تحرير الصفحات">التحرير</a> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D9%82%D8%A7%D9%84%D8%AA%D9%83_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89" title="ويكيبيديا:مقالتك الأولى">وإنشاء مقالات جديدة</a>. انظر <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="مساعدة:محتويات">قسم المساعدة</a> للحصول على نصائح، أو توجه إلى <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86" title="ويكيبيديا:الميدان">الميدان</a> لطرح الاستفسارات العامة حول أساليب التحرير وسياسات ويكيبيديا والقضايا التقنية أو اللغوية.
+</p>
+	  </div>
+	 </div>
+	 <div class="mp-left">
+	  <div class="mp-itn mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HSAktuell.svg/38px-HSAktuell.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HSAktuell.svg/57px-HSAktuell.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HSAktuell.svg/76px-HSAktuell.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">في الأخبار</span>
+</p>
+</div>
+</div>
+<div style="float:left;margin-right:0.5em;"><span typeof="mw:File"><a href="/wiki/%D9%8A%D8%AD%D9%8A%D9%89_%D8%A7%D9%84%D8%B3%D9%86%D9%88%D8%A7%D8%B1" title="يحيى السنوار"><img alt="يحيى السنوار" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Yahya_al-Sinwar_2011_%28cropped%29.JPG/100px-Yahya_al-Sinwar_2011_%28cropped%29.JPG" decoding="async" width="100" height="112" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Yahya_al-Sinwar_2011_%28cropped%29.JPG/150px-Yahya_al-Sinwar_2011_%28cropped%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c4/Yahya_al-Sinwar_2011_%28cropped%29.JPG 2x" data-file-width="160" data-file-height="179" /></a></span>
+</div>
+<ul><li><span class="HideNewsDate" style="display: none;">23 أكتوبر</span> مقتل 5 أشخاص وإصابة 22 آخرين في <b><a href="/wiki/%D9%87%D8%AC%D9%88%D9%85_%D9%85%D9%82%D8%B1_%D8%B4%D8%B1%D9%83%D8%A9_%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9_2024" title="هجوم مقر شركة الصناعات الجوية والفضائية التركية 2024">هجوم مسلح</a></b> على مقر <a href="/wiki/%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9_%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9" title="الشركة التركية للصناعات الجوية والفضائية">الشركة التركية للصناعات الجوية والفضائية</a> في أنقرة.</li>
+<li><span class="HideNewsDate" style="display: none;">16 أكتوبر</span> مقتل <b><a href="/wiki/%D9%8A%D8%AD%D9%8A%D9%89_%D8%A7%D9%84%D8%B3%D9%86%D9%88%D8%A7%D8%B1" title="يحيى السنوار">يحيى السنوار</a></b> <span style="font-size:85%;"><span class="m">(في الصورة)</span></span>، رئيس المكتب السياسي <a href="/wiki/%D8%AD%D8%B1%D9%83%D8%A9_%D8%AD%D9%85%D8%A7%D8%B3" title="حركة حماس">لحركة حماس</a>، <b><a href="/wiki/%D9%85%D9%82%D8%AA%D9%84_%D9%8A%D8%AD%D9%8A%D9%89_%D8%A7%D9%84%D8%B3%D9%86%D9%88%D8%A7%D8%B1" title="مقتل يحيى السنوار">في اشتباك مسلح</a></b> مع قوات الاحتلال الإسرائيلي في رفح جنوب قطاع غزة.</li>
+<li><span class="HideNewsDate" style="display: none;">11 أكتوبر</span> منح <b><a href="/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D9%86%D9%88%D8%A8%D9%84_%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85" title="جائزة نوبل للسلام">جائزة نوبل للسلام</a></b> لجمعية <b><a href="/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86_%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA_%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D9%82%D9%86%D8%A8%D9%84%D8%AA%D9%8A%D9%86_%D8%A7%D9%84%D8%B0%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86%D9%8A%D8%A9" title="اتحاد اليابان لمنظمات ضحايا القنبلتين الذرية والهيدروجينية">نيهون هيدانكيو</a></b>، وهي جمعية تضم «<a href="/wiki/%D9%87%D9%8A%D8%A8%D8%A7%D9%83%D9%88%D8%B4%D8%A7" title="هيباكوشا">هيباكوشا</a>»، الناجين من <a href="/wiki/%D8%A7%D9%84%D9%82%D8%B5%D9%81_%D8%A7%D9%84%D8%B0%D8%B1%D9%8A_%D8%B9%D9%84%D9%89_%D9%87%D9%8A%D8%B1%D9%88%D8%B4%D9%8A%D9%85%D8%A7_%D9%88%D9%86%D8%A7%D8%AC%D8%A7%D8%B2%D8%A7%D9%83%D9%8A" title="القصف الذري على هيروشيما وناجازاكي">القصفين الذريين على هيروشيما وناجازاكي</a>.</li>
+<li><span class="HideNewsDate" style="display: none;">3 أكتوبر</span> <a href="/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%87%D8%B1%D8%B3%D9%83_2024" title="فيضانات البوسنة والهرسك 2024"><b>فيضانات شديدة</b></a> تضرب <a href="/wiki/%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%87%D8%B1%D8%B3%D9%83" title="البوسنة والهرسك">البوسنة والهرسك</a>، ما أدى إلى مصرع ما لا يقل عن 26 شخصًا وفقد قرابة 40 آخرين.</li>
+<li><span class="HideNewsDate" style="display: none;">1 أكتوبر</span> إيران <b><a href="/wiki/%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84_(%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1_2024)" title="الضربات الإيرانية على إسرائيل (أكتوبر 2024)">توجه ضربة صاروخية</a></b> بأكثر من 180 صاروخًا نحو إسرائيل.</li>
+<li><span class="HideNewsDate" style="display: none;">27 سبتمبر</span> مقتل الأمين العام <a href="/wiki/%D8%AD%D8%B2%D8%A8_%D8%A7%D9%84%D9%84%D9%87" title="حزب الله">لحزب الله</a>، <b><a href="/wiki/%D8%AD%D8%B3%D9%86_%D9%86%D8%B5%D8%B1_%D8%A7%D9%84%D9%84%D9%87" title="حسن نصر الله">حسن نصر الله</a></b>، إثر <b><a href="/wiki/%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84_%D8%AD%D8%B3%D9%86_%D9%86%D8%B5%D8%B1_%D8%A7%D9%84%D9%84%D9%87" title="اغتيال حسن نصر الله">عملية اغتيال</a></b> نفذتها <a href="/wiki/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9" title="القوات الجوية الإسرائيلية">القوات الجوية الإسرائيلية</a>.</li>
+<li><span class="HideNewsDate" style="display: none;">17 سبتمبر</span> <b><a href="/wiki/%D9%87%D8%AC%D9%85%D8%A7%D8%AA_23_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_%D8%B9%D9%84%D9%89_%D9%84%D8%A8%D9%86%D8%A7%D9%86_2024" class="mw-redirect" title="هجمات 23 سبتمبر على لبنان 2024">غارات إسرائيلية</a></b> كثيفة ومستمرة على <a href="/wiki/%D9%84%D8%A8%D9%86%D8%A7%D9%86" title="لبنان">لبنان</a>، تؤدي إلى مقتل أكثر من 500 شخص وإصابة أكثر من 1000 آخرين، من بينهم أطفال ونساء ومسعفين.</li></ul>
+<hr />
+<ul><li><b><a href="/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9" title="تصنيف:أحداث جارية">أحداث جارية</a></b>: <a href="/wiki/%D8%A7%D9%84%D8%BA%D8%B2%D9%88_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A_%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7" title="الغزو الروسي لأوكرانيا">الغزو الروسي لأوكرانيا</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D9%86%D8%B2%D8%A7%D8%B9_%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86_(2023%E2%80%93%D8%A7%D9%84%D8%A2%D9%86)" title="نزاع السودان (2023–الآن)">اشتباكات السودان</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%B9%D9%85%D9%84%D9%8A%D8%A9_%D8%B7%D9%88%D9%81%D8%A7%D9%86_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89" title="عملية طوفان الأقصى">عملية طوفان الأقصى</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%A3%D8%B2%D9%85%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1" title="أزمة البحر الأحمر">أزمة البحر الأحمر</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%A7%D9%84%D8%BA%D8%B2%D9%88_%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A_%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86_2024" title="الغزو الإسرائيلي للبنان 2024">الغزو الإسرائيلي للبنان</a></li>
+<li><b><a href="/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%88%D9%81%D9%8A%D8%A7%D8%AA_%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9" title="تصنيف:وفيات حديثة">وفيات حديثة</a></b>: <a href="/wiki/%D9%81%D8%AA%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D9%83%D9%88%D9%84%D9%86" title="فتح الله كولن">فتح الله كولن</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D9%83%D9%8A%D8%AC%D8%A7%D8%A8" title="عبد المجيد سلطان كيجاب">عبد المجيد سلطان كيجاب</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%B4%D8%AD%D8%AA%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D9%8A" title="شحتة الإسكندراني">شحتة الإسكندراني</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84_(%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A)" title="عبد الله الطويل (سياسي)">عبد الله الطويل</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%A2%D9%85%D9%88%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87" title="آمون عبد الله">آمون عبد الله</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D9%87%D8%A7%D8%B4%D9%85_%D8%B5%D9%81%D9%8A_%D8%A7%D9%84%D8%AF%D9%8A%D9%86" title="هاشم صفي الدين">هاشم صفي الدين</a> &#160;<b>&#183;</b>&#32; <a href="/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2_%D8%A8%D8%B1%D8%A7%D8%AF%D8%A9" title="عبد العزيز برادة">عبد العزيز برادة</a></li></ul>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="/wiki/%D9%88%D9%81%D9%8A%D8%A7%D8%AA_2024" title="وفيات 2024">وفيات حديثة</a> <b>·</b> <a href="https://ar.wikinews.org/wiki/" class="extiw" title="n:">ويكي الأخبار</a> <b>·</b> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%B7%D9%84%D8%A8%D8%A7%D8%AA" title="ويكيبيديا:في الأخبار/طلبات">إضافة خبر جديد</a></div>
+	  </div>
+	  <div class="mp-itd mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Datum26.svg/38px-Datum26.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Datum26.svg/57px-Datum26.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Datum26.svg/76px-Datum26.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">في هذا اليوم</span>
+</p>
+</div>
+</div>
+<p><b><a href="/wiki/26_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="26 أكتوبر">26 أكتوبر</a></b>: <a href="/wiki/%D9%8A%D9%88%D9%85_%D9%88%D8%B7%D9%86%D9%8A" title="يوم وطني">اليوم الوطني</a> في <a href="/wiki/%D8%A7%D9%84%D9%86%D9%85%D8%B3%D8%A7" title="النمسا">النمسا</a>
+</p><p><br />
+</p>
+<ul><li><a href="/wiki/1945" title="1945">1945</a> - ظهور منظمة <a href="/wiki/%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9" title="الأمم المتحدة">الأمم المتحدة</a> بعد تصديق دستورها من قبل الأعضاء الخامسة الدائمين في <a href="/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%86_%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9_%D9%84%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9" title="مجلس الأمن التابع للأمم المتحدة">مجلس الأمن</a>.</li>
+<li><a href="/wiki/1954" title="1954">1954</a> - الرئيس <a href="/wiki/%D8%AC%D9%85%D8%A7%D9%84_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1" title="جمال عبد الناصر">جمال عبد الناصر</a> يتعرض لمحاولة <a href="/wiki/%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84" title="اغتيال">اغتيال</a> أثناء إلقائه لخطاب في <a href="/wiki/%D9%85%D9%8A%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D9%86%D8%B4%D9%8A%D8%A9" class="mw-redirect" title="ميدان المنشية">ميدان المنشية</a> <a href="/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9" title="الإسكندرية">بالإسكندرية</a>، وهي الحادثة المعروفة باسم <a href="/wiki/%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D8%B4%D9%8A%D8%A9" title="حادثة المنشية">حادثة المنشية</a>.</li>
+<li><a href="/wiki/1967" title="1967">1967</a> - <a href="/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B1%D8%B6%D8%A7_%D8%A8%D9%87%D9%84%D9%88%D9%8A" title="محمد رضا بهلوي">محمد رضا بهلوي</a> <span class="m">(في الصورة)</span> يتوج نفسه إمبراطورًا على <a href="/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86" title="إيران">إيران</a>.</li>
+<li><a href="/wiki/1994" title="1994">1994</a> - توقيع <a href="/wiki/%D9%85%D8%B9%D8%A7%D9%87%D8%AF%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9" title="معاهدة السلام الأردنية الإسرائيلية">معاهدة السلام الأردنية الإسرائيلية</a> المعروفة باسم «اتفاقية وادي عربة».</li>
+<li><a href="/wiki/2009" title="2009">2009</a> - الإعلان عن فوز الرئيس <a href="/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس">التونسي</a> <a href="/wiki/%D8%B2%D9%8A%D9%86_%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%D9%8A" title="زين العابدين بن علي">زين العابدين بن علي</a> في <a href="/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9_2009" title="الانتخابات الرئاسية التونسية 2009">الانتخابات الرئاسية</a> لفترة رئاسية خامسة بعد حصوله على 89.62% من الأصوات.</li></ul>
+<p>أحداث أخرى: <a href="/wiki/25_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="25 أكتوبر">25 أكتوبر</a> &#160;<b>&#183;</b>&#32; <b><a href="/wiki/26_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="26 أكتوبر">26 أكتوبر</a></b> &#160;<b>&#183;</b>&#32; <a href="/wiki/27_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="27 أكتوبر">27 أكتوبر</a>
+</p>
+<div style="text-align:center;"><b><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%81%D9%8A_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D9%8A%D9%88%D9%85/%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="ويكيبيديا:في هذا اليوم/أكتوبر">الأرشيف</a></b> &#160;<b>&#183;</b>&#32;  <b><a href="/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF_26_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="تصنيف:مواليد 26 أكتوبر">مواليد هذا اليوم</a></b> &#160;<b>&#183;</b>&#32; <b><a href="/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A3%D9%8A%D8%A7%D9%85_%D8%A7%D9%84%D8%B3%D9%86%D8%A9" title="قائمة أيام السنة">قائمة أيام السنة</a></b>
+<div style="font-size: small;">
+<span style="font-size:85%;">اليوم السبت <a href="/wiki/26_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1" title="26 أكتوبر">26 أكتوبر</a> <a href="/wiki/2024" title="2024">2024</a> (وَفق <a href="/wiki/%D8%AA%D9%88%D9%82%D9%8A%D8%AA_%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%85%D9%86%D8%B3%D9%82" title="توقيت عالمي منسق">التوقيت العالمي المنسق</a>)</span> &#160;<b>&#183;</b>&#32;  <span class="plainlinks" id="otd-purgelink"><span class="nowrap"><a class="external text" href="https://ar.wikipedia.org/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=purge">حدّث الصفحة</a></span></span></div></div>
+	  </div>
+	  <div class="mp-dyk mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HS_RTL_Exclamation.svg/38px-HS_RTL_Exclamation.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HS_RTL_Exclamation.svg/57px-HS_RTL_Exclamation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HS_RTL_Exclamation.svg/76px-HS_RTL_Exclamation.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">هل تعلم</span>
+</p>
+</div>
+</div>
+<figure class="mw-halign-left" typeof="mw:File"><a href="/wiki/%D9%85%D9%84%D9%81:Mammoth_Cave_tour.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mammoth_Cave_tour.jpg/100px-Mammoth_Cave_tour.jpg" decoding="async" width="100" height="67" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mammoth_Cave_tour.jpg/150px-Mammoth_Cave_tour.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mammoth_Cave_tour.jpg/200px-Mammoth_Cave_tour.jpg 2x" data-file-width="3000" data-file-height="2000" /></a><figcaption></figcaption></figure>
+<ul><li>... أن <b><a href="/wiki/%D9%83%D9%87%D9%81_%D8%A7%D9%84%D9%85%D8%A7%D9%85%D9%88%D8%AB" title="كهف الماموث">كهف الماموث</a></b> (في الصورة) في ولاية <a href="/wiki/%D9%83%D9%86%D8%AA%D8%A7%D9%83%D9%8A" title="كنتاكي">كنتاكي</a> الأمريكية يعتبر أطول كهف في العالم، إذ يحتوي على ممرات تمتد لأكثر من 600 كم؟</li>
+<li>... أن الأتراك <b>لم يُلقِّبوا أي حاكم من <a href="/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B3%D9%84%D8%A7%D8%B7%D9%8A%D9%86_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9" title="قائمة سلاطين الدولة العثمانية">حكام آل عثمان</a> بالسلطان</b> عكس ما هو شائع في الكتب والمؤلفات، وإنما كان واحدهم يلقب «پادشاه» أي «ملك الملوك» أو «العاهل»؟</li>
+<li>... أن <b><a href="/wiki/%D9%85%D8%A7%D9%8A%D9%84%D9%8A%D9%86%D8%AF%D8%A7_%D9%83%D9%84%D9%8A%D9%85%D9%8A%D9%86%D8%AF%D9%8A" title="مايليندا كليميندي">مايليندا كليميندي</a></b> هي أول <a href="/wiki/%D9%83%D9%88%D8%B3%D9%88%D9%81%D9%88" title="كوسوفو">كوسوفية</a> ألبانية العرق تفوز بميدالية في أول مشاركة رسمية لبلادها في <a href="/wiki/%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9_2016" title="الألعاب الأولمبية الصيفية 2016">الألعاب الأولمبية الصيفية 2016</a>؟</li>
+<li>... أن الملك الفارسي الساساني <b><a href="/wiki/%D8%B3%D8%A7%D8%A8%D9%88%D8%B1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A" title="سابور الثاني">سابور الثاني</a></b> توج ملكًا على فارس وهو في <a href="/wiki/%D8%B1%D8%AD%D9%85" title="رحم">رحم</a> أمه؟</li>
+<li>... أن <b>الكاتبة <a href="/wiki/%D8%AC._%D9%83._%D8%B1%D9%88%D9%84%D9%8A%D9%86%D8%BA" class="mw-redirect" title="ج. ك. رولينغ">جوان رولينغ</a></b> تُعتبر أول مليارديرة في العالم من فئة الكاتبات؟</li></ul>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%87%D9%84_%D8%AA%D8%B9%D9%84%D9%85#اقتراح_معلومة" title="ويكيبيديا:هل تعلم">رشح معلومة جديدة</a></div>
+	  </div>
+	  <div class="mp-said mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HSBook.svg/38px-HSBook.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HSBook.svg/57px-HSBook.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HSBook.svg/76px-HSBook.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">قيل</span>
+</p>
+</div>
+</div>
+<div style="display: none;">69</div>
+<table style="width:100%;text-align:center;border-collapse:collapse; border-style:none; background-color:transparent;" role="presentation">
+
+<tbody><tr>
+<td style="vertical-align:top;text-align:right;"><span style="color:#bcbcbc; font-size:30px; font-family:&#39;Times New Roman&#39;,serif; font-weight:bold; padding-right:10px">”</span>
+</td>
+<td style="font-size:105%"><a href="/wiki/%D8%AD%D9%82%D9%8A%D9%82%D8%A9" title="حقيقة">حقيقةٌ</a> أعترف بها عاليًا، وهي أن كل <a href="/wiki/%D9%82%D9%84%D8%A8" title="قلب">قلب</a> <a href="/wiki/%D8%B1%D8%AC%D9%84" title="رجل">رجل</a> <a href="/wiki/%D8%AD%D8%B8" title="حظ">ذوحظٍّ</a> <a href="/wiki/%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9" title="سعادة">سعيد</a> ، يريد <a href="/wiki/%D8%B2%D9%88%D8%AC%D8%A9" title="زوجة">زوجة</a>
+</td>
+<td style="vertical-align:bottom;"><span style="color:#bcbcbc; font-size:30px; font-family:&#39;Times New Roman&#39;,serif; font-weight:bold; padding-left:10px">“</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="text-align:left;">&#8212; <a href="/wiki/%D8%AC%D8%A7%D9%8A%D9%86_%D8%A3%D9%88%D8%B3%D8%AA%D9%86" title="جاين أوستن">جاين أوستن</a>
+</td>
+<td>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="https://ar.wikiquote.org/wiki/" class="extiw" title="q:">ويكي الاقتباس</a> <b>·</b> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AC%D8%AF%D9%88%D9%84_%D9%83%D9%84%D9%85%D8%A9_%D8%A7%D9%84%D9%8A%D9%88%D9%85/%D8%B9%D8%B1%D8%B6_%D8%A7%D9%84%D9%83%D9%84%D9%85%D8%A7%D8%AA_%D9%83%D9%84%D9%87%D8%A7" title="ويكيبيديا:جدول كلمة اليوم/عرض الكلمات كلها">قائمة الأقوال</a></div>
+	  </div>
+	  <div class="mp-cil mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/HS_Korganizer.svg/38px-HS_Korganizer.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/HS_Korganizer.svg/57px-HS_Korganizer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/HS_Korganizer.svg/76px-HS_Korganizer.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">الصحيح في <a href="/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="اللغة العربية">اللغة</a></span>
+</p>
+</div>
+</div>
+<div style="display: none;">123</div>
+<table style="width:100%;background-color:transparent;padding:5px;text-align:center;">
+<tbody><tr>
+<td><u>لا تقل</u>: جمادى <span style="color:#cc0000">الأول</span>. جمادى <span style="color:#cc0000">الآخِر</span>.<br /><u>بل قل</u>: جمادى <span style="color:#0000FF">الأولى</span>. جمادى <span style="color:#0000FF">الآخِرة</span><br /> <u>لأن</u> لفظ «جُمادى» لفظ مؤنث.
+</td></tr></tbody></table>
+<p><br />
+</p><p><br />
+</p>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="https://ar.wiktionary.org/wiki/" class="extiw" title="wikt:">ويكاموس</a> <b>·</b> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9_%D9%81%D9%8A_%D8%A7%D9%84%D9%84%D8%BA%D8%A9/%D8%B9%D8%B1%D8%B6_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA_%D9%83%D9%84%D9%87%D8%A7" title="ويكيبيديا:الشائع في اللغة/عرض الملاحظات كلها">قائمة الملاحظات</a></div>
+	  </div>
+ <div class="mp-creatbox mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/HSEditor.svg/38px-HSEditor.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/HSEditor.svg/57px-HSEditor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/HSEditor.svg/76px-HSEditor.svg.png 2x" data-file-width="156" data-file-height="156" /></span></span></div>
+<p><span class="mp-h2">هل تود إنشاء مقالة؟</span>
+</p>
+</div>
+</div>
+<p>في ويكيبيديا العربية <b><a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%D8%A7%D8%AA" title="خاص:إحصاءات">1٬243٬801</a></b> مقالة حتى الآن، لذا فاحتمال وجود مقالةٍ حول الموضوع الذي تريد الكتابة عنه كبير. استخدم <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A8%D8%AD%D8%AB" title="خاص:بحث">صفحة البحث</a> لمعرفة ما إذا كانت المقالة موجودةً، وربما تحت مسمًّى آخر مختلف. إن لم تكن، اكتب اسم المقالة في الصندوق أدناه وأنشئها، واتبع الإرشادات أعلى صندوق التحرير بحرص.
+</p>
+<div class="mw-inputbox-centered" style=""><form name="createbox" class="createbox mw-inputbox-form" action="/w/index.php" method="get"><input type="hidden" value="edit" name="action" /><input type="hidden" name="preload" /><input type="hidden" value="قالب:صندوق إنشاء مقالة/مقدمة" name="editintro" /><input type="hidden" value="إنشاء مقالة جديدة عن طريق صندوق إنشاء المقالة في الصفحة الرئيسة." name="summary" /><div class="cdx-text-input"><input name="title" class="mw-inputbox-input mw-inputbox-createbox cdx-text-input__input" placeholder="اكتب اسم مقالتك الجديدة هنا" required="" size="30" dir="rtl" /></div><br /><input type="submit" name="create" value="أنشئها" class="cdx-button cdx-button--action-progressive cdx-button--weight-primary" /></form></div>
+<div style="border-top:1px dashed #cfe0f3; text-align:left; font-size:95%; margin-top:1px;"><a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9" title="مساعدة:الفيديوهات الإرشادية">شاهد بعض الفيديوهات الإرشادية</a></div>
+	  </div>
+<div class="mp-whatresponsive mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/38px-HSWPedia.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/57px-HSWPedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/76px-HSWPedia.svg.png 2x" data-file-width="1500" data-file-height="1500" /></span></span></div>
+<p><span class="mp-h2">ما هي ويكيبيديا؟</span>
+</p>
+</div>
+</div>
+<p><b><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B9%D9%86" title="ويكيبيديا:عن">ويكيبيديا</a></b> مشروع تعاوني متعدد اللغات يضم <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A" title="ويكي">ويكيات</a> بأكثر من 300 لغة للعمل في مشاريع <a href="/wiki/%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9" title="موسوعة">موسوعات</a> حرة ودقيقة ومتكاملة ومتنوعة ومحايدة، يستطيع الجميع المساهمة في تحريرها. نشأت ويكيبيديا في عام 2001، حيث نمت وتطورت بسرعة لتصبح واحدة من أكبر المواقع على الإنترنت. بدأت <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="ويكيبيديا العربية">النسخة العربية</a> في <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="ويكيبيديا:تاريخ ويكيبيديا العربية">يوليو/تموز 2003</a>.<br />
+لدى ويكيبيديا بعض <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA_%D9%88%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%D8%A7%D8%AA" title="ويكيبيديا:سياسات وإرشادات">السياسات والإرشادات</a> التي تساعد متطوعيها على العمل فيها، بعض هذه السياسات لا تزال في طور التشكل، بينما استقرت سياسات أخرى منذ زمن، ومع أن سياسات ويكيبيديا مستمرة في النمو، إلا أن بعض <a href="/wiki/%D9%85%D8%AC%D8%AA%D9%85%D8%B9_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7" title="مجتمع ويكيبيديا">الويكيبيديين</a> يشعرون أن كتابة القواعد أمر لا يمكن له أن يغطي كل تنويعة على السلوك المثير أو الهادف لضرر. هؤلاء الذين يحررون <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%81%D8%AA%D8%B1%D8%B6_%D8%AD%D8%B3%D9%86_%D8%A7%D9%84%D9%86%D9%8A%D8%A9" title="ويكيبيديا:افترض حسن النية">بنية حسنة</a> ويظهرون <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A3%D8%AF%D8%A8" title="ويكيبيديا:أدب">سلوكًا مدنيًّا</a> ويسعون وراء <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D9%88%D8%A7%D9%81%D9%82" title="ويكيبيديا:توافق">التوافق</a> ويعملون لتحقيق هدفهم بالمشاركة في مشروع <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%88%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%86%D8%B8%D8%B1_%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%8A%D8%AF%D8%A9" title="ويكيبيديا:وجهة النظر المحايدة">موسوعي محايد</a>، سيجدون أنفسهم في <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A3%D8%AF%D8%A8" title="ويكيبيديا:أدب">بيئة مرحبة</a>.<br />
+يمكنك دائمًا المساعدة في بناء ويكيبيديا وتحسينها بالتعاون مع <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9" title="ويكيبيديا:بوابة المجتمع">المجتمع</a> عن طريق <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A7%D8%AA" title="مساعدة:تحرير الصفحات">التحرير</a> <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D9%82%D8%A7%D9%84%D8%AA%D9%83_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89" title="ويكيبيديا:مقالتك الأولى">وإنشاء مقالات جديدة</a>. انظر <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="مساعدة:محتويات">قسم المساعدة</a> للحصول على نصائح، أو توجه إلى <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86" title="ويكيبيديا:الميدان">الميدان</a> لطرح الاستفسارات العامة حول أساليب التحرير وسياسات ويكيبيديا والقضايا التقنية أو اللغوية.
+</p>
+	  </div>
+	 </div>
+ </div>
+ <div class="mp-sister mp-Sec">
+<div class="mp-SecTitle">
+<div class="mp-SecCont">
+<div class="mp-SecBg"><span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/250px-Blue-bg_rounded_cropped_right.svg.png" decoding="async" width="250" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/375px-Blue-bg_rounded_cropped_right.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blue-bg_rounded_cropped_right.svg/500px-Blue-bg_rounded_cropped_right.svg.png 2x" data-file-width="250" data-file-height="25" /></span></span></div>
+<div class="mp-SecIcon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/38px-Wikimedia-logo-circle.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/57px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/76px-Wikimedia-logo-circle.svg.png 2x" data-file-width="700" data-file-height="700" /></span></span></div>
+<p><span class="mp-h2">مشاريع شقيقة</span>
+</p>
+</div>
+</div>
+<style data-mw-deduplicate="TemplateStyles:r64185398">.mw-parser-output #sister-projects-list{text-align:right;background:transparent;margin:1px 10px}.mw-parser-output #sister-projects-list>div{width:32%;min-width:20em;white-space:nowrap;margin:0 1px;display:inline-block}body.skin-minerva .mw-parser-output #sister-projects-list>div{width:49%}.mw-parser-output #sister-projects-list>div>div{display:inline-block;vertical-align:middle;margin:1px 0;padding:4px}.mw-parser-output #sister-projects-list>div>div:first-child{min-width:50px;text-align:center}</style>
+<p><b>مشروع ويكيبيديا أحد المشاريع التابعة <a href="/wiki/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9_%D9%88%D9%8A%D9%83%D9%8A%D9%85%D9%8A%D8%AF%D9%8A%D8%A7" title="مؤسسة ويكيميديا">لمؤسسة ويكيميديا</a>، وهي منظمة غير ربحية تستضيف كذلك مجموعة من <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ar/our-work/wikimedia-projects/">المشاريع الأخرى</a>:</b>
+</p>
+<div id="sister-projects-list" class="layout plainlinks">
+<div>
+  <div> <span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" title="كومنز"><img alt="كومنز" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> </div>
+  <div> <b><a class="external text" href="https://commons.wikimedia.org/wiki/الصفحة_الرئيسية">كومنز</a></b> <br /> مستودع الملفات المشتركة </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://ar.wiktionary.org/wiki/" title="ويكاموس"><img alt="ويكاموس" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/34px-Wiktionary-logo.svg.png" decoding="async" width="34" height="32" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/51px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/68px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></span> </div>
+  <div> <b><a class="external text" href="https://ar.wiktionary.org/">ويكاموس</a></b> <br /> قاموس حر </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://ar.wikisource.org/wiki/" title="ويكي مصدر"><img alt="ويكي مصدر" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/34px-Wikisource-logo.svg.png" decoding="async" width="34" height="36" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/68px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></span> </div>
+  <div> <b><a class="external text" href="https://ar.wikisource.org/">ويكي مصدر</a></b> <br /> مكتبة حرة </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://ar.wikibooks.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" title="ويكي الكتب"><img alt="ويكي الكتب" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/34px-Wikibooks-logo.svg.png" decoding="async" width="34" height="34" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/51px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/68px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></span> </div>
+  <div> <b><a class="external text" href="https://ar.wikibooks.org">ويكي الكتب</a></b> <br /> كتب مفتوحة لعالم حر </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://ar.wikiquote.org/wiki/" title="ويكي الاقتباس"><img alt="ويكي الاقتباس" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></span> </div>
+  <div> <b><a class="external text" href="https://ar.wikiquote.org/">ويكي الاقتباس</a></b> <br /> أقوال مأثورة ومشهورة </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://ar.wikinews.org/wiki/" title="ويكي الأخبار"><img alt="ويكي الأخبار" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png" decoding="async" width="50" height="27" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/75px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/100px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></span> </div>
+  <div> <b><a class="external text" href="https://ar.wikinews.org/">ويكي الأخبار</a></b> <br /> مصدر أخبار حرة </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://ar.wikiversity.org/wiki/" title="ويكي الجامعة"><img alt="ويكي الجامعة" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/40px-Wikiversity_logo_2017.svg.png" decoding="async" width="40" height="33" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/60px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/80px-Wikiversity_logo_2017.svg.png 2x" data-file-width="626" data-file-height="512" /></a></span> </div>
+  <div> <b><a class="external text" href="https://ar.wikiversity.org/">ويكي الجامعة</a></b> <br /> مصدر تعليم حر </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://species.wikimedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" title="ويكي أنواع"><img alt="ويكي أنواع" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></span> </div>
+  <div> <b><a class="external text" href="https://species.wikimedia.org/wiki/الصفحة_الرئيسية">ويكي أنواع</a></b> <br /> دليل للأنواع الحية </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://ar.wikivoyage.org/wiki/" title="ويكي الرحلات"><img alt="ويكي الرحلات" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/34px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="34" height="34" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/51px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/68px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></span> </div>
+  <div> <b><a class="external text" href="https://ar.wikivoyage.org/">ويكي الرحلات</a></b> <br /> دليل سفر حر </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Wikidata:%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" title="ويكي بيانات"><img alt="ويكي بيانات" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/46px-Wikidata-logo.svg.png" decoding="async" width="46" height="26" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/69px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/92px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> </div>
+  <div> <b><a class="external text" href="https://www.wikidata.org/wiki/Wikidata:الصفحة_الرئيسية">ويكي بيانات</a></b> <br /> قاعدة بيانات حرة </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://meta.wikimedia.org/wiki/Main_Page/ar" title="ميتا ويكي"><img alt="ميتا ويكي" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/34px-Wikimedia_Community_Logo.svg.png" decoding="async" width="34" height="34" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/51px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/68px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></span> </div>
+  <div> <b><a class="external text" href="https://meta.wikimedia.org/wiki/Main_Page/ar">ميتا ويكي</a></b> <br /> تنسيق مشاريع ويكيميديا </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://www.mediawiki.org/wiki/MediaWiki/ar" title="ميدياويكي"><img alt="ميدياويكي" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MediaWiki-2020-logo.svg/34px-MediaWiki-2020-logo.svg.png" decoding="async" width="34" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MediaWiki-2020-logo.svg/51px-MediaWiki-2020-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MediaWiki-2020-logo.svg/68px-MediaWiki-2020-logo.svg.png 2x" data-file-width="270" data-file-height="300" /></a></span> </div>
+  <div> <b><a class="external text" href="https://mediawiki.org/wiki/MediaWiki/ar">ميدياويكي</a></b> <br /> برمجيات ويكي حرة </div>
+</div>
+<div>
+  <div> <span typeof="mw:File"><a href="https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page" title="ويكي الدوال"><img alt="ويكي الدوال" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wikifunctions-logo.svg/34px-Wikifunctions-logo.svg.png" decoding="async" width="34" height="34" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wikifunctions-logo.svg/51px-Wikifunctions-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wikifunctions-logo.svg/68px-Wikifunctions-logo.svg.png 2x" data-file-width="512" data-file-height="513" /></a></span> </div>
+  <div> <b><a class="external text" href="https://wikifunctions.org/wiki/">ويكي الدوال</a></b> <br /> مكتبة دوال حرة </div>
+</div>
+</div>
+ </div>
+ <div class="mp-footer">
+<div class="hlist" style="font-size:90%;text-align:center">
+<ul><li><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias/ar" class="extiw" title="m:List of Wikipedias/ar">قائمة الويكيبيديات</a></li>
+<li><a class="external text" href="https://stats.wikimedia.org/#/ar.wikipedia.org">إحصاءات ويكيبيديا العربية</a></li>
+<li><a class="external text" href="https://ar.wikipedia.org/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;action=purge">أفرغ كاش الخادم</a>: لتحديث الصفحة الرئيسة</li></ul>
+</div>
+ </div>
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">مجلوبة من «<a dir="ltr" href="https://ar.wikipedia.org/w/index.php?title=الصفحة_الرئيسة&amp;oldid=66860132">https://ar.wikipedia.org/w/index.php?title=الصفحة_الرئيسة&amp;oldid=66860132</a>»</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">تصنيف مخفي: <ul><li><a href="/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D8%AA%D8%AD%D9%88%D9%8A_%D9%86%D8%B5%D8%A7_%D8%A8%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9" title="تصنيف:مقالات تحوي نصا بالإنجليزية">مقالات تحوي نصا بالإنجليزية</a></li></ul></div></div>
+						
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="اذهب إلى المقالة في لغةٍ أخرى. مُتاحة في 60 لغة"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-60" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">60 لغة</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ary mw-list-item"><a href="https://ary.wikipedia.org/wiki/" title="Moroccan Arabic" lang="ary" hreflang="ary" data-title="" data-language-autonym="الدارجة" data-language-local-name="Moroccan Arabic" class="interlanguage-link-target"><span>الدارجة</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/" title="Egyptian Arabic" lang="arz" hreflang="arz" data-title="" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/" title="الأسترية" lang="ast" hreflang="ast" data-title="" data-language-autonym="Asturianu" data-language-local-name="الأسترية" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/" title="South Azerbaijani" lang="azb" hreflang="azb" data-title="" data-language-autonym="تۆرکجه" data-language-local-name="South Azerbaijani" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/" title="البلغارية" lang="bg" hreflang="bg" data-title="" data-language-autonym="Български" data-language-local-name="البلغارية" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/" title="البوسنية" lang="bs" hreflang="bs" data-title="" data-language-autonym="Bosanski" data-language-local-name="البوسنية" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/" title="الكتالانية" lang="ca" hreflang="ca" data-title="" data-language-autonym="Català" data-language-local-name="الكتالانية" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/" title="السورانية الكردية" lang="ckb" hreflang="ckb" data-title="" data-language-autonym="کوردی" data-language-local-name="السورانية الكردية" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/" title="التشيكية" lang="cs" hreflang="cs" data-title="" data-language-autonym="Čeština" data-language-local-name="التشيكية" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/" title="الدانمركية" lang="da" hreflang="da" data-title="" data-language-autonym="Dansk" data-language-local-name="الدانمركية" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/" title="الألمانية" lang="de" hreflang="de" data-title="" data-language-autonym="Deutsch" data-language-local-name="الألمانية" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/" title="اليونانية" lang="el" hreflang="el" data-title="" data-language-autonym="Ελληνικά" data-language-local-name="اليونانية" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/" title="الإنجليزية" lang="en" hreflang="en" data-title="" data-language-autonym="English" data-language-local-name="الإنجليزية" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/" title="الإسبرانتو" lang="eo" hreflang="eo" data-title="" data-language-autonym="Esperanto" data-language-local-name="الإسبرانتو" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/" title="الإسبانية" lang="es" hreflang="es" data-title="" data-language-autonym="Español" data-language-local-name="الإسبانية" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/" title="الإستونية" lang="et" hreflang="et" data-title="" data-language-autonym="Eesti" data-language-local-name="الإستونية" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/" title="الباسكية" lang="eu" hreflang="eu" data-title="" data-language-autonym="Euskara" data-language-local-name="الباسكية" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/" title="الفارسية" lang="fa" hreflang="fa" data-title="" data-language-autonym="فارسی" data-language-local-name="الفارسية" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/" title="الفنلندية" lang="fi" hreflang="fi" data-title="" data-language-autonym="Suomi" data-language-local-name="الفنلندية" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/" title="الفرنسية" lang="fr" hreflang="fr" data-title="" data-language-autonym="Français" data-language-local-name="الفرنسية" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/" title="الجاليكية" lang="gl" hreflang="gl" data-title="" data-language-autonym="Galego" data-language-local-name="الجاليكية" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-glk mw-list-item"><a href="https://glk.wikipedia.org/wiki/" title="Gilaki" lang="glk" hreflang="glk" data-title="" data-language-autonym="گیلکی" data-language-local-name="Gilaki" class="interlanguage-link-target"><span>گیلکی</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/" title="العبرية" lang="he" hreflang="he" data-title="" data-language-autonym="עברית" data-language-local-name="العبرية" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/" title="الكرواتية" lang="hr" hreflang="hr" data-title="" data-language-autonym="Hrvatski" data-language-local-name="الكرواتية" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/" title="الهنغارية" lang="hu" hreflang="hu" data-title="" data-language-autonym="Magyar" data-language-local-name="الهنغارية" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/" title="الإندونيسية" lang="id" hreflang="id" data-title="" data-language-autonym="Bahasa Indonesia" data-language-local-name="الإندونيسية" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/" title="الإيطالية" lang="it" hreflang="it" data-title="" data-language-autonym="Italiano" data-language-local-name="الإيطالية" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/" title="اليابانية" lang="ja" hreflang="ja" data-title="" data-language-autonym="日本語" data-language-local-name="اليابانية" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/" title="الكورية" lang="ko" hreflang="ko" data-title="" data-language-autonym="한국어" data-language-local-name="الكورية" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ks mw-list-item"><a href="https://ks.wikipedia.org/wiki/" title="الكشميرية" lang="ks" hreflang="ks" data-title="" data-language-autonym="कॉशुर / کٲشُر" data-language-local-name="الكشميرية" class="interlanguage-link-target"><span>कॉशुर / کٲشُر</span></a></li><li class="interlanguage-link interwiki-lrc mw-list-item"><a href="https://lrc.wikipedia.org/wiki/" title="اللرية الشمالية" lang="lrc" hreflang="lrc" data-title="" data-language-autonym="لۊری شومالی" data-language-local-name="اللرية الشمالية" class="interlanguage-link-target"><span>لۊری شومالی</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/" title="الليتوانية" lang="lt" hreflang="lt" data-title="" data-language-autonym="Lietuvių" data-language-local-name="الليتوانية" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/" title="اللاتفية" lang="lv" hreflang="lv" data-title="" data-language-autonym="Latviešu" data-language-local-name="اللاتفية" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/" title="المالايالامية" lang="ml" hreflang="ml" data-title="" data-language-autonym="മലയാളം" data-language-local-name="المالايالامية" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/" title="الماليزية" lang="ms" hreflang="ms" data-title="" data-language-autonym="Bahasa Melayu" data-language-local-name="الماليزية" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-mzn mw-list-item"><a href="https://mzn.wikipedia.org/wiki/" title="المازندرانية" lang="mzn" hreflang="mzn" data-title="" data-language-autonym="مازِرونی" data-language-local-name="المازندرانية" class="interlanguage-link-target"><span>مازِرونی</span></a></li><li class="interlanguage-link interwiki-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/" title="مين-نان الصينية" lang="nan" hreflang="nan" data-title="" data-language-autonym="閩南語 / Bân-lâm-gú" data-language-local-name="مين-نان الصينية" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/" title="الهولندية" lang="nl" hreflang="nl" data-title="" data-language-autonym="Nederlands" data-language-local-name="الهولندية" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/" title="النرويجية نينورسك" lang="nn" hreflang="nn" data-title="" data-language-autonym="Norsk nynorsk" data-language-local-name="النرويجية نينورسك" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/" title="النرويجية بوكمال" lang="nb" hreflang="nb" data-title="" data-language-autonym="Norsk bokmål" data-language-local-name="النرويجية بوكمال" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/" title="البولندية" lang="pl" hreflang="pl" data-title="" data-language-autonym="Polski" data-language-local-name="البولندية" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/" title="Western Punjabi" lang="pnb" hreflang="pnb" data-title="" data-language-autonym="پنجابی" data-language-local-name="Western Punjabi" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/" title="البشتو" lang="ps" hreflang="ps" data-title="" data-language-autonym="پښتو" data-language-local-name="البشتو" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/" title="البرتغالية" lang="pt" hreflang="pt" data-title="" data-language-autonym="Português" data-language-local-name="البرتغالية" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/" title="الرومانية" lang="ro" hreflang="ro" data-title="" data-language-autonym="Română" data-language-local-name="الرومانية" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/" title="الروسية" lang="ru" hreflang="ru" data-title="" data-language-autonym="Русский" data-language-local-name="الروسية" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/" title="السندية" lang="sd" hreflang="sd" data-title="" data-language-autonym="سنڌي" data-language-local-name="السندية" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/" title="صربية-كرواتية" lang="sh" hreflang="sh" data-title="" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="صربية-كرواتية" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="en-simple" hreflang="en-simple" data-title="" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/" title="السلوفاكية" lang="sk" hreflang="sk" data-title="" data-language-autonym="Slovenčina" data-language-local-name="السلوفاكية" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/" title="السلوفانية" lang="sl" hreflang="sl" data-title="" data-language-autonym="Slovenščina" data-language-local-name="السلوفانية" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/" title="الصربية" lang="sr" hreflang="sr" data-title="" data-language-autonym="Српски / srpski" data-language-local-name="الصربية" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/" title="السويدية" lang="sv" hreflang="sv" data-title="" data-language-autonym="Svenska" data-language-local-name="السويدية" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/" title="التايلاندية" lang="th" hreflang="th" data-title="" data-language-autonym="ไทย" data-language-local-name="التايلاندية" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/" title="التركية" lang="tr" hreflang="tr" data-title="" data-language-autonym="Türkçe" data-language-local-name="التركية" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-ug mw-list-item"><a href="https://ug.wikipedia.org/wiki/" title="الأويغورية" lang="ug" hreflang="ug" data-title="" data-language-autonym="ئۇيغۇرچە / Uyghurche" data-language-local-name="الأويغورية" class="interlanguage-link-target"><span>ئۇيغۇرچە / Uyghurche</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/" title="الأوكرانية" lang="uk" hreflang="uk" data-title="" data-language-autonym="Українська" data-language-local-name="الأوكرانية" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/" title="الأوردية" lang="ur" hreflang="ur" data-title="" data-language-autonym="اردو" data-language-local-name="الأوردية" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/" title="الفيتنامية" lang="vi" hreflang="vi" data-title="" data-language-autonym="Tiếng Việt" data-language-local-name="الفيتنامية" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/" title="الصينية" lang="zh" hreflang="zh" data-title="" data-language-autonym="中文" data-language-local-name="الصينية" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			
+		</div>
+
+	</div>
+</div>
+
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> آخر تعديل لهذه الصفحة كان يوم 10 مايو 2024، الساعة 18:04.</li>
+	<li id="footer-info-copyright">النصوص متاحة تحت <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%86%D8%B5_%D8%B1%D8%AE%D8%B5%D8%A9_%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B9_%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D9%8A:_%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5_%D8%A8%D8%A7%D9%84%D9%85%D8%AB%D9%84_4.0" title="ويكيبيديا:نص رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 4.0">رخصة المشاع الإبداعي الملزمة بنسبة العمل لمؤلفه وبترخيص الأعمال المشتقة بالمثل 4.0</a>؛ قد تُطبّق شروط إضافية. استخدامُك هذا الموقع هو موافقةٌ على <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">شروط الاستخدام</a> <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">وسياسة الخصوصية</a>. ويكيبيديا ® هي علامة تجارية مسجلة <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">لمؤسسة ويكيميديا</a>، وهي منظمة غير ربحية.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ar">سياسة الخصوصية</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B9%D9%86">حول ويكيبيديا</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A5%D8%AE%D9%84%D8%A7%D8%A1_%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9_%D8%B9%D8%A7%D9%85">إخلاء مسؤولية</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">القواعد السلوكية</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">المطورون</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ar.wikipedia.org">إحصائيات</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">بيان تعريف الارتباطات</a></li>
+	<li id="footer-places-mobileview"><a href="//ar.m.wikipedia.org/w/index.php?title=%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">نسخة للأجهزة المحمولة</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/static/images/footer/wikimedia-button.svg" width="84" height="29" alt="Wikimedia Foundation" loading="lazy"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/w/resources/assets/poweredby_mediawiki.svg" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul></ul>
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.canary-75fb8ff7b5-qwwv4","wgBackendResponseTime":164,"wgPageParseReport":{"limitreport":{"cputime":"0.333","walltime":"0.612","ppvisitednodes":{"value":1830,"limit":1000000},"postexpandincludesize":{"value":87002,"limit":2097152},"templateargumentsize":{"value":12091,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5165,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  331.584      1 -total"," 23.70%   78.599      1 قالب:مقالة_الصفحة_الرئيسية_المختارة"," 23.03%   76.379      1 قالب:مقالة_الصفحة_الرئيسية_المختارة/المقالة_الحالية"," 17.38%   57.618      2 قالب:تاريخ_منسق"," 14.58%   48.348      1 قالب:مقدمة_الصفحة_الرئيسية_2"," 13.88%   46.040      1 ويكيبيديا:مقالة_الصفحة_الرئيسية_المختارة/22"," 13.01%   43.132      1 ويكيبيديا:مقالة_الصفحة_الرئيسية_المختارة/قالب"," 12.71%   42.153      1 قالب:تقويم_رئيسي","  9.76%   32.377      1 قالب:في_هذا_اليوم","  8.90%   29.498      1 قالب:ملاحظات_في_اللغة_العربية"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":1501179,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-7c55db6c78-ghlbt","timestamp":"20241026022719","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u0629","url":"https:\/\/ar.wikipedia.org\/wiki\/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"\u0627\u0644\u0645\u0633\u0627\u0647\u0645\u0648\u0646 \u0641\u064a \u0645\u0634\u0627\u0631\u064a\u0639 \u0648\u064a\u0643\u064a\u0645\u064a\u062f\u064a\u0627"},"publisher":{"@type":"Organization","name":"\u0645\u0624\u0633\u0633\u0629 \u0648\u064a\u0643\u064a\u0645\u064a\u062f\u064a\u0627","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-03T00:43:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4c\/Ibn_al-Nafis.jpg","headline":"\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u0629 \u0644\u0645\u0634\u0631\u0648\u0639 \u0648\u064a\u0643\u064a\u0645\u064a\u062f\u064a\u0627"}</script>
+</body>
+</html>

@@ -3,7 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+	<Nullable>enable</Nullable>
+	  
     <Authors>Ahmed arafa</Authors>
     <Description>my code in my Journey to learn C#</Description>
     <Copyright>MIT</Copyright>
@@ -11,11 +12,22 @@
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
 	<EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
 	<OutputType>Library</OutputType>
+	  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Humanizer.Core" Version="2.14.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Strings\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Strings\assci_data.txt">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
