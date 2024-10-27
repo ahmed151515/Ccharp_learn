@@ -78,8 +78,14 @@ namespace app
 
 			//archive.Working_StringBuilder.L01_MutableStringBuilder.Main();
 			//archive.Working_StringBuilder.L02_HowItWorks.Main();
-			archive.Working_StringBuilder.L03_Instantiation.Main();
+			//archive.Working_StringBuilder.L03_Instantiation.Main();
 			//archive.Working_StringBuilder.L04_Methods.Main();
+
+			//archive.Working_Tuple._1_ConceptBehindTuple.Main();
+			//archive.Working_Tuple._2_ReturnMultipleValues.Main();
+			archive.Working_Tuple._3_TupleClass.Main();
+			//archive.Working_Tuple._4_ValueTuple.Main();
+
 
 
 
