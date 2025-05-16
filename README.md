@@ -1,4 +1,4 @@
-# ccharp_learn
+# csharp_learn
 
 # My Journey to Learn C#
 
